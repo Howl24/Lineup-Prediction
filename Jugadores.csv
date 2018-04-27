@@ -1,0 +1,737 @@
+,Equipo,Jugador,Posición
+0, Brazil, Jefferson,Goalkeeper
+1, Brazil, Julio Cesar,Goalkeeper
+2, Brazil, Victor,Goalkeeper
+3, Brazil,Dani Alves,Defender
+4, Brazil,Thiago Silva,Defender
+5, Brazil, David Luiz,Defender
+6, Brazil, Marcelo,Defender
+7, Brazil, Dante,Defender
+8, Brazil, Maxwell,Defender
+9, Brazil, Henrique,Defender
+10, Brazil, Maicon,Defender
+11, Brazil, Fernandinho,Midfielder
+12, Brazil, Paulinho,Midfielder
+13, Brazil, Oscar,Midfielder
+14, Brazil, Ramires,Midfielder
+15, Brazil, Luiz Gustavo,Midfielder
+16, Brazil, Hernanes,Midfielder
+17, Brazil, Willian,Midfielder
+18, Brazil, Bernard,Midfielder
+19, Brazil, Hulk,Forward
+20, Brazil, Fred,Forward
+21, Brazil, Neymar,Forward
+22, Brazil, Jo,Forward
+23, Cameroon,Loïc Feudjou,Goalkeeper
+24, Cameroon,Charles Itandje,Goalkeeper
+25, Cameroon,Sammy Ndjock,Goalkeeper
+26, Cameroon,Benoit Assou-Ekotto,Defender
+27, Cameroon,Nicolas N'koulou,Defender
+28, Cameroon,Cedric Djeugoue,Defender
+29, Cameroon,Dany Nounkeu,Defender
+30, Cameroon,Henri Bedimo,Defender
+31, Cameroon,Aurelien Chedjou,Defender
+32, Cameroon,Stephane Mbia,Defender
+33, Cameroon, Nyom,Defender
+34, Cameroon,Alexandre Song,Midfielder
+35, Cameroon,Landry N'Guémo,Midfielder
+36, Cameroon,Jean Makoun,Midfielder
+37, Cameroon,Eyong Enoh,Midfielder
+38, Cameroon,Joel Matip,Midfielder
+39, Cameroon,Benjamin Moukandjo,Forward
+40, Cameroon,Samuel Eto'o,Forward
+41, Cameroon,Vincent Aboubakar,Forward
+42, Cameroon,Eric Choupo Moting,Forward
+43, Cameroon,Pierre Webo,Forward
+44, Cameroon,Fabrice Olinga,Forward
+45, Cameroon,Edgar Salli,Forward
+46, Croatia,Stipe Pletikosa,Goalkeeper
+47, Croatia,Oliver Zelenika,Goalkeeper
+48, Croatia,Danijel Subasic,Goalkeeper
+49, Croatia,Sime Vrsaljko,Defender
+50, Croatia,Danijel Pranjic,Defender
+51, Croatia,Vedran Corluka,Defender
+52, Croatia,Dejan Lovren,Defender
+53, Croatia,Darijo Srna,Defender
+54, Croatia,Gordon Schildenfeld,Defender
+55, Croatia,Domagoj Vida,Defender
+56, Croatia,Ivan Perisic,Midfielder
+57, Croatia,Ivan Rakitic,Midfielder
+58, Croatia,Ognjen Vukojevic,Midfielder
+59, Croatia,Luka Modric,Midfielder
+60, Croatia,Marcelo Brozovic,Midfielder
+61, Croatia,Milan Badelj,Midfielder
+62, Croatia, Sammir,Midfielder
+63, Croatia,Mateo Kovacic,Midfielder
+64, Croatia,Nikica Jelavic,Forward
+65, Croatia,Ante Rebic,Forward
+66, Croatia,Mario Mandzukic,Forward
+67, Croatia,Ivica Olic,Forward
+68, Croatia, Eduardo,Forward
+69, Mexico,Jesús Corona,Goalkeeper
+70, Mexico,Alfredo Talavera,Goalkeeper
+71, Mexico,Guillermo Ochoa,Goalkeeper
+72, Mexico,Francisco Rodriguez,Defender
+73, Mexico,Carlos Salcido,Defender
+74, Mexico,Rafael Marquez,Defender
+75, Mexico,Diego Reyes,Defender
+76, Mexico,Miguel Layún,Defender
+77, Mexico,Hector Moreno,Defender
+78, Mexico,Miguel Ponce,Defender
+79, Mexico,Paul Aguilar,Defender
+80, Mexico,Héctor Herrera,Midfielder
+81, Mexico,Marco Fabián,Midfielder
+82, Mexico,Giovani Dos Santos,Midfielder
+83, Mexico,Isaác Brizuela,Midfielder
+84, Mexico,Andres Guardado,Midfielder
+85, Mexico,Javier Aquino,Midfielder
+86, Mexico,Carlos Peña,Midfielder
+87, Mexico,José Juan Vázquez,Midfielder
+88, Mexico,Raúl Jiménez,Forward
+89, Mexico,Alan Pulido,Forward
+90, Mexico,Javier Hernandez,Forward
+91, Mexico,Oribe Peralta,Forward
+92, Australia,Matthew Ryan,Goalkeeper
+93, Australia,Mitchell Langerak,Goalkeeper
+94, Australia,Eugene Galekovic,Goalkeeper
+95, Australia,Ivan Franjic,Defender
+96, Australia,Jason Davidson,Defender
+97, Australia,Matthew Spiranovic,Defender
+98, Australia,Bailey Wright,Defender
+99, Australia,Ryan McGowan,Defender
+100, Australia,Alex Wilkinson,Defender
+101, Australia,Mark Milligan,Midfielder
+102, Australia,Ben Halloran,Midfielder
+103, Australia,Tommy Oar,Midfielder
+104, Australia,Oliver Bozanic,Midfielder
+105, Australia,James Troisi,Midfielder
+106, Australia,Mile Jedinak,Midfielder
+107, Australia,James Holland,Midfielder
+108, Australia,Matt McKay,Midfielder
+109, Australia,Dario Vidosic,Midfielder
+110, Australia,Massimo Luongo,Midfielder
+111, Australia,Mark Bresciano,Midfielder
+112, Australia,Tim Cahill,Forward
+113, Australia,Mathew Leckie,Forward
+114, Australia,Adam Taggart,Forward
+115, Chile,Claudio Bravo,Goalkeeper
+116, Chile,Cristopher Toselli,Goalkeeper
+117, Chile,Johnny Herrera,Goalkeeper
+118, Chile,Eugenio Mena,Defender
+119, Chile,Miiko Albornoz,Defender
+120, Chile,Mauricio Isla,Defender
+121, Chile,José Rojas,Defender
+122, Chile,Gary Medel,Defender
+123, Chile,Gonzalo Jara,Defender
+124, Chile,Francisco Silva,Midfielder
+125, Chile,Carlos Carmona,Midfielder
+126, Chile,Arturo Vidal,Midfielder
+127, Chile,Jorge Valdivia,Midfielder
+128, Chile,Jean Beausejour,Midfielder
+129, Chile,Felipe Gutierrez,Midfielder
+130, Chile,José Fuenzalida,Midfielder
+131, Chile,Charles Aránguiz,Midfielder
+132, Chile,Marcelo Díaz,Midfielder
+133, Chile,Alexis Sanchez,Forward
+134, Chile,Mauricio Pinilla,Forward
+135, Chile,Eduardo Vargas,Forward
+136, Chile,Fabian Orellana,Forward
+137, Chile,Esteban Paredes,Forward
+138, Holland,Jasper Cillessen,Goalkeeper
+139, Holland,Michel Vorm,Goalkeeper
+140, Holland,Tim Krul,Goalkeeper
+141, Holland,Ron Vlaar,Defender
+142, Holland,Stefan de Vrij,Defender
+143, Holland,Bruno Martins Indi,Defender
+144, Holland,Daley Blind,Defender
+145, Holland,Daryl Janmaat,Defender
+146, Holland,Paul Verhaegh,Defender
+147, Holland,Joël Veltman,Defender
+148, Holland,Terence Kongolo,Defender
+149, Holland,Nigel De Jong,Midfielder
+150, Holland,Jonathan de Guzmán,Midfielder
+151, Holland,Wesley Sneijder,Midfielder
+152, Holland,Jordy Clasie,Midfielder
+153, Holland,Leroy Fer,Midfielder
+154, Holland,Georginio Wijnaldum,Midfielder
+155, Holland,Robin Van Persie,Forward
+156, Holland,Arjen Robben,Forward
+157, Holland,Dirk Kuyt,Forward
+158, Holland,Jeremain Lens,Forward
+159, Holland,Klaas Jan Huntelaar,Forward
+160, Holland,Memphis Depay,Forward
+161, Spain,Iker Casillas,Goalkeeper
+162, Spain,David de Gea,Goalkeeper
+163, Spain,Pepe Reina,Goalkeeper
+164, Spain,Raul Albiol,Defender
+165, Spain,Gerard Piqué,Defender
+166, Spain, Juanfran,Defender
+167, Spain, Sergio Ramos,Defender
+168, Spain,Jordi Alba,Defender
+169, Spain,César Azpilicueta,Defender
+170, Spain,Javi Martinez,Midfielder
+171, Spain,Andrés Iniesta,Midfielder
+172, Spain, Xavi,Midfielder
+173, Spain,Cesc Fabregas,Midfielder
+174, Spain, Xabi Alonso,Midfielder
+175, Spain,Sergio Busquets,Midfielder
+176, Spain, Koke,Midfielder
+177, Spain,Santiago Cazorla,Midfielder
+178, Spain, David Silva,Midfielder
+179, Spain,David Villa,Forward
+180, Spain,Fernando Torres,Forward
+181, Spain, Pedro,Forward
+182, Spain,Juan Mata,Forward
+183, Spain,Diego Costa,Forward
+184, Colombia,David Ospina,Goalkeeper
+185, Colombia,Camilo Vargas,Goalkeeper
+186, Colombia,Farid Mondragon,Goalkeeper
+187, Colombia,Cristian Zapata,Defender
+188, Colombia,Mario Yepes,Defender
+189, Colombia,Santiago Arias,Defender
+190, Colombia,Pablo Armero,Defender
+191, Colombia,Eder Alvarez Balanta,Defender
+192, Colombia,Juan Zuñiga,Defender
+193, Colombia,Carlos Valdés,Defender
+194, Colombia,Carlos Carbonero,Midfielder
+195, Colombia,Carlos Sánchez,Midfielder
+196, Colombia,Abel Aguilar,Midfielder
+197, Colombia,James Rodríguez,Midfielder
+198, Colombia,Juan Guillermo Cuadrado,Midfielder
+199, Colombia,Fredy Guarín,Midfielder
+200, Colombia,Víctor Ibarbo,Midfielder
+201, Colombia,Alexander Mejía,Midfielder
+202, Colombia,Juan Quintero,Midfielder
+203, Colombia,Teófilo Gutiérrez,Forward
+204, Colombia,Carlos Bacca,Forward
+205, Colombia,Adrián Ramos,Forward
+206, Colombia,Jackson Martinez,Forward
+207, Greece,Orestis Karnezis,Goalkeeper
+208, Greece,Panagiotis Glykos,Goalkeeper
+209, Greece,Stefanos Kapino,Goalkeeper
+210, Greece,Giorgios Tzavellas,Defender
+211, Greece,Kostas Manolas,Defender
+212, Greece,Vangelis Moras,Defender
+213, Greece,Loukas Vyntra,Defender
+214, Greece,Vasileios Torosidis,Defender
+215, Greece,Sokratis Papastathopoulos,Defender
+216, Greece,José Holebas,Defender
+217, Greece,Giannis Maniatis,Midfielder
+218, Greece,Alexandros Tziolis,Midfielder
+219, Greece,Panagiotis Kone,Midfielder
+220, Greece,Georgios Karagounis,Midfielder
+221, Greece,Lazaros Christodoulopoulos,Midfielder
+222, Greece,Ioannis Fetfatzidis,Midfielder
+223, Greece,Konstantinos Katsouranis,Midfielder
+224, Greece,Andreas Samaris,Midfielder
+225, Greece,Panagiotis Tachtsidis,Midfielder
+226, Greece,Georgios Samaras,Forward
+227, Greece,Kostas Mitroglou,Forward
+228, Greece,Dimitrios Salpingidis,Forward
+229, Greece,Theofanis Gekas,Forward
+230, Ivory Coast,Boubacar Barry,Goalkeeper
+231, Ivory Coast,Sylvain Gbohouo,Goalkeeper
+232, Ivory Coast,Sayouba Mandé,Goalkeeper
+233, Ivory Coast,Ousmane Viera,Defender
+234, Ivory Coast,Arthur Boka,Defender
+235, Ivory Coast,Kolo Toure,Defender
+236, Ivory Coast,Jean-Daniel Akpa-Akpro,Defender
+237, Ivory Coast,Serge Aurier,Defender
+238, Ivory Coast,Constant Djakpa,Defender
+239, Ivory Coast,Souleymane Bamba,Defender
+240, Ivory Coast,Didier Zokora,Midfielder
+241, Ivory Coast,Mathis Bolly,Midfielder
+242, Ivory Coast,Ismael Tiote,Midfielder
+243, Ivory Coast,Ismael Diomande,Midfielder
+244, Ivory Coast,Max Gradel,Midfielder
+245, Ivory Coast,Yaya Toure,Midfielder
+246, Ivory Coast,Serey Die,Midfielder
+247, Ivory Coast,Salomon Kalou,Forward
+248, Ivory Coast, Gervinho,Forward
+249, Ivory Coast,Didier Drogba,Forward
+250, Ivory Coast,Wilfried Bony,Forward
+251, Ivory Coast,Didier Ya Konan,Forward
+252, Ivory Coast,Giovanni Sio,Forward
+253, Japan,Eiji Kawashima,Goalkeeper
+254, Japan,Shusaku Nishikawa,Goalkeeper
+255, Japan,Shuichi Gonda,Goalkeeper
+256, Japan,Atsuto Uchida,Defender
+257, Japan,Gotoku Sakai,Defender
+258, Japan,Yuto Nagatomo,Defender
+259, Japan,Masato Morishige,Defender
+260, Japan,Toshihiro Aoyama,Defender
+261, Japan,Yasuyuki Konno,Defender
+262, Japan,Masahiko Inoha,Defender
+263, Japan,Hiroki Sakai,Defender
+264, Japan,Maya Yoshida,Defender
+265, Japan,Yasuhito Endo,Midfielder
+266, Japan,Hiroshi Kiyotake,Midfielder
+267, Japan,Shinji Kagawa,Midfielder
+268, Japan,Hotaru Yamaguchi,Midfielder
+269, Japan,Makoto Hasebe,Midfielder
+270, Japan,Keisuke Honda,Forward
+271, Japan,Shinji Okazaki,Forward
+272, Japan,Yoichiro Kakitani,Forward
+273, Japan,Yoshito Okubo,Forward
+274, Japan,Yuya Osako,Forward
+275, Japan,Manabu Saito,Forward
+276, Costa Rica,Keylor Navas,Goalkeeper
+277, Costa Rica,Patrick Pemberton,Goalkeeper
+278, Costa Rica,Daniel Cambronero,Goalkeeper
+279, Costa Rica,Johnny Acosta,Defender
+280, Costa Rica,Giancarlo Gonzalez,Defender
+281, Costa Rica,Michael Umaña,Defender
+282, Costa Rica,Óscar Duarte,Defender
+283, Costa Rica,David Myrie,Defender
+284, Costa Rica,Waylon Francis,Defender
+285, Costa Rica,Júnior Díaz,Defender
+286, Costa Rica,Cristian Gamboa,Defender
+287, Costa Rica,Roy Miller,Defender
+288, Costa Rica,Celso Borges,Midfielder
+289, Costa Rica,Christian Bolaños,Midfielder
+290, Costa Rica,Michael Barrantes,Midfielder
+291, Costa Rica,Esteban Granados,Midfielder
+292, Costa Rica,Yeltsin Tejeda,Midfielder
+293, Costa Rica,Diego Calvo,Midfielder
+294, Costa Rica,José Cubero,Midfielder
+295, Costa Rica,Joel Campbell,Forward
+296, Costa Rica,Bryan Ruiz,Forward
+297, Costa Rica,Randall Brenes,Forward
+298, Costa Rica,Marcos Ureña,Forward
+299, England,Joe Hart,Goalkeeper
+300, England,Ben Foster,Goalkeeper
+301, England,Fraser Forster,Goalkeeper
+302, England,Glen Johnson,Defender
+303, England,Leighton Baines,Defender
+304, England,Gary Cahill,Defender
+305, England,Phil Jagielka,Defender
+306, England,Chris Smalling,Defender
+307, England,Phil Jones,Defender
+308, England,Luke Shaw,Defender
+309, England,Steven Gerrard,Midfielder
+310, England,Jack Wilshere,Midfielder
+311, England,Frank Lampard,Midfielder
+312, England,Jordan Henderson,Midfielder
+313, England,Alex Oxlade-Chamberlain,Midfielder
+314, England,James Milner,Midfielder
+315, England,Adam Lallana,Midfielder
+316, England,Ross Barkley,Midfielder
+317, England,Daniel Sturridge,Forward
+318, England,Wayne Rooney,Forward
+319, England,Danny Welbeck,Forward
+320, England,Rickie Lambert,Forward
+321, England,Raheem Sterling,Forward
+322, Italy,Gianluigi Buffon,Goalkeeper
+323, Italy,Salvatore Sirigu,Goalkeeper
+324, Italy,Mattia Perin,Goalkeeper
+325, Italy,Mattia De Sciglio,Defender
+326, Italy,Giorgio Chiellini,Defender
+327, Italy,Matteo Darmian,Defender
+328, Italy,Ignazio Abate,Defender
+329, Italy,Andrea Barzagli,Defender
+330, Italy,Leonardo Bonucci,Defender
+331, Italy,Gabriel Paletta,Defender
+332, Italy,Thiago Motta,Midfielder
+333, Italy,Antonio Candreva,Midfielder
+334, Italy,Claudio Marchisio,Midfielder
+335, Italy,Alberto Aquilani,Midfielder
+336, Italy,Daniele De Rossi,Midfielder
+337, Italy,Marco Parolo,Midfielder
+338, Italy,Andrea Pirlo,Midfielder
+339, Italy,Marco Verratti,Midfielder
+340, Italy,Mario Balotelli,Forward
+341, Italy,Antonio Cassano,Forward
+342, Italy,Alessio Cerci,Forward
+343, Italy,Ciro Immobile,Forward
+344, Italy,Lorenzo Insigne,Forward
+345, Uruguay,Fernando Muslera,Goalkeeper
+346, Uruguay,Rodrigo Muñoz,Goalkeeper
+347, Uruguay,Martin Silva,Goalkeeper
+348, Uruguay,Diego Lugano,Defender
+349, Uruguay,Diego Godin,Defender
+350, Uruguay,Jorge Fucile,Defender
+351, Uruguay,José María Giménez,Defender
+352, Uruguay,Maximiliano Pereira,Defender
+353, Uruguay,Sebastián Coates,Defender
+354, Uruguay,Martin Caceres,Defender
+355, Uruguay,Walter Gargano,Midfielder
+356, Uruguay,Alvaro Pereira,Midfielder
+357, Uruguay,Cristian Rodríguez,Midfielder
+358, Uruguay,Nicolas Lodeiro,Midfielder
+359, Uruguay,Diego Perez,Midfielder
+360, Uruguay,Egidio Arevalo,Midfielder
+361, Uruguay,Gastón Ramírez,Midfielder
+362, Uruguay,Alvaro González,Midfielder
+363, Uruguay,Abel Hernández,Forward
+364, Uruguay,Luis Suarez,Forward
+365, Uruguay,Diego Forlan,Forward
+366, Uruguay,Christian Stuani,Forward
+367, Uruguay,Edinson Cavani,Forward
+368, Ecuador,Máximo Banguera,Goalkeeper
+369, Ecuador,Adrian Bone,Goalkeeper
+370, Ecuador,Alexander Domínguez,Goalkeeper
+371, Ecuador,Jorge Guagua,Defender
+372, Ecuador,Frickson Erazo,Defender
+373, Ecuador,Juan Carlos Paredes,Defender
+374, Ecuador,Walter Ayovi,Defender
+375, Ecuador,Óscar Bagüí,Defender
+376, Ecuador,Gabriel Achilier,Defender
+377, Ecuador,Renato Ibarra,Midfielder
+378, Ecuador,Christian Noboa,Midfielder
+379, Ecuador,Jefferson Montero,Midfielder
+380, Ecuador,Edison Mendez,Midfielder
+381, Ecuador,Oswaldo Minda,Midfielder
+382, Ecuador,Michael Arroyo,Midfielder
+383, Ecuador,Antonio Valencia,Midfielder
+384, Ecuador,Luis Saritama,Midfielder
+385, Ecuador,Fidel Martínez,Midfielder
+386, Ecuador,Carlos Gruezo,Midfielder
+387, Ecuador,Joao Rojas,Forward
+388, Ecuador,Felipe Caicedo,Forward
+389, Ecuador,Enner Valencia,Forward
+390, Ecuador,Jaime Ayoví,Forward
+391, France,Hugo Lloris,Goalkeeper
+392, France,Stéphane Ruffier,Goalkeeper
+393, France,Mickael Landreau,Goalkeeper
+394, France,Mathieu Debuchy,Defender
+395, France,Patrice Evra,Defender
+396, France,Raphael Varane,Defender
+397, France,Mamadou Sakho,Defender
+398, France,Eliaquim Mangala,Defender
+399, France,Bakari Sagna,Defender
+400, France,Lucas Digne,Defender
+401, France,Laurent Koscielny,Defender
+402, France,Yohan Cabaye,Midfielder
+403, France,Rémy Cabella,Midfielder
+404, France,Mathieu Valbuena,Midfielder
+405, France,Antoine Griezmann,Midfielder
+406, France,Rio Mavuba,Midfielder
+407, France,Blaise Matuidi,Midfielder
+408, France,Moussa Sissoko,Midfielder
+409, France,Paul Pogba,Midfielder
+410, France,Morgan Schneiderlin,Midfielder
+411, France,Olivier Giroud,Forward
+412, France,Karim Benzema,Forward
+413, France,Loïc Rémy,Forward
+414, Honduras,Luis López,Goalkeeper
+415, Honduras,Noel Valladares,Goalkeeper
+416, Honduras,Donis Escober,Goalkeeper
+417, Honduras,Osman Chavez,Defender
+418, Honduras,Maynor Figueroa,Defender
+419, Honduras,Juan Pablo Montes,Defender
+420, Honduras,Victor Bernardez,Defender
+421, Honduras,Juan Carlos García,Defender
+422, Honduras,Emilio Izaguirre,Defender
+423, Honduras,Brayan Beckeles,Defender
+424, Honduras,Wilson Palacios,Midfielder
+425, Honduras,Mario Martínez,Midfielder
+426, Honduras,Edder Delgado,Midfielder
+427, Honduras,Oscar Boniek Garcia,Midfielder
+428, Honduras,Roger Espinoza,Midfielder
+429, Honduras,Andy Najar,Midfielder
+430, Honduras,Luis Garrido,Midfielder
+431, Honduras,Jorge Claros,Midfielder
+432, Honduras,Marvin Chávez,Midfielder
+433, Honduras,Jerry Palacios,Forward
+434, Honduras,Jerry Bengtson,Forward
+435, Honduras,Carlo Costly,Forward
+436, Honduras,Rony Martínez,Forward
+437, Switzerland,Diego Benaglio,Goalkeeper
+438, Switzerland,Yann Sommer,Goalkeeper
+439, Switzerland,Roman Bürki,Goalkeeper
+440, Switzerland,Stephan Lichtsteiner,Defender
+441, Switzerland,Reto Ziegler,Defender
+442, Switzerland,Philippe Senderos,Defender
+443, Switzerland,Steve Von Bergen,Defender
+444, Switzerland,Michael Lang,Defender
+445, Switzerland,Ricardo Rodriguez,Defender
+446, Switzerland,Johan Djourou,Defender
+447, Switzerland,Fabian Schär,Defender
+448, Switzerland,Tranquillo Barnetta,Midfielder
+449, Switzerland,Gokhan Inler,Midfielder
+450, Switzerland,Granit Xhaka,Midfielder
+451, Switzerland,Valon Behrami,Midfielder
+452, Switzerland,Valentin Stocker,Midfielder
+453, Switzerland,Blerim Dzemaili,Midfielder
+454, Switzerland,Gelson Fernandes,Midfielder
+455, Switzerland,Xherdan Shaqiri,Midfielder
+456, Switzerland,Haris Seferovic,Forward
+457, Switzerland,Mario Gavranovic,Forward
+458, Switzerland,Admir Mehmedi,Forward
+459, Switzerland,Josip Drmic,Forward
+460, Argentina,Sergio Romero,Goalkeeper
+461, Argentina,Agustin Orion,Goalkeeper
+462, Argentina,Mariano Andujar,Goalkeeper
+463, Argentina,Ezequiel Garay,Defender
+464, Argentina,Hugo Campagnaro,Defender
+465, Argentina,Pablo Zabaleta,Defender
+466, Argentina,Martin Demichelis,Defender
+467, Argentina,Marcos Rojo,Defender
+468, Argentina,Federico Fernández,Defender
+469, Argentina,José Basanta,Defender
+470, Argentina,Fernando Gago,Midfielder
+471, Argentina,Lucas Biglia,Midfielder
+472, Argentina,Angel Di Maria,Midfielder
+473, Argentina,Enzo Pérez,Midfielder
+474, Argentina,Maxi Rodriguez,Midfielder
+475, Argentina,Augusto Fernández,Midfielder
+476, Argentina,Javier Mascherano,Midfielder
+477, Argentina,Ricardo Álvarez,Midfielder
+478, Argentina,Gonzalo Higuain,Forward
+479, Argentina,Lionel Messi,Forward
+480, Argentina,Rodrigo Palacio,Forward
+481, Argentina,Sergio Aguero,Forward
+482, Argentina,Ezequiel Lavezzi,Forward
+483, Bosnia and Herzegovina,Asmir Begovic,Goalkeeper
+484, Bosnia and Herzegovina,Jasmin Fejzic,Goalkeeper
+485, Bosnia and Herzegovina,Asmir Avdukic,Goalkeeper
+486, Bosnia and Herzegovina,Ermin Bicakcic,Defender
+487, Bosnia and Herzegovina,Emir Spahic,Defender
+488, Bosnia and Herzegovina,Sead Kolasinac,Defender
+489, Bosnia and Herzegovina,Ognjen Vranjes,Defender
+490, Bosnia and Herzegovina,Muhamed Besic,Defender
+491, Bosnia and Herzegovina,Toni Sunjic,Defender
+492, Bosnia and Herzegovina,Avdija Vrsajevic,Midfielder
+493, Bosnia and Herzegovina,Miralem Pjanic,Midfielder
+494, Bosnia and Herzegovina,Zvjezdan Misimovic,Midfielder
+495, Bosnia and Herzegovina,Mensur Mujdza,Midfielder
+496, Bosnia and Herzegovina,Tino Susic,Midfielder
+497, Bosnia and Herzegovina,Senad Lulic,Midfielder
+498, Bosnia and Herzegovina,Senijad Ibricic,Midfielder
+499, Bosnia and Herzegovina,Haris Medunjanin,Midfielder
+500, Bosnia and Herzegovina,Izet Hajrovic,Midfielder
+501, Bosnia and Herzegovina,Anel Hadzic,Midfielder
+502, Bosnia and Herzegovina,Sejad Salihovic,Midfielder
+503, Bosnia and Herzegovina,Vedad Ibisevic,Forward
+504, Bosnia and Herzegovina,Edin Dzeko,Forward
+505, Bosnia and Herzegovina,Edin Visca,Forward
+506, Iran,Rahman Ahmadi,Goalkeeper
+507, Iran,Alireza Haghighi,Goalkeeper
+508, Iran,Daniel Davari,Goalkeeper
+509, Iran,Jalal Hosseini,Defender
+510, Iran,Amir Hossein Sadeghi,Defender
+511, Iran,Hossein Mahini,Defender
+512, Iran,Pejman Montazeri,Defender
+513, Iran,Ahmad Alnameh,Defender
+514, Iran,Hashem Beikzadeh,Defender
+515, Iran,Steven Beitashour,Defender
+516, Iran,Mehrdad Pooladi,Defender
+517, Iran,Khosro Heydari,Midfielder
+518, Iran,Ehsan Hajsafi,Midfielder
+519, Iran,Javad Nekounam,Midfielder
+520, Iran,Masoud Shojaei,Midfielder
+521, Iran,Reza Haghighi,Midfielder
+522, Iran,Ghasem Haddadifar,Midfielder
+523, Iran,Andranik Teymourian,Midfielder
+524, Iran,Bakhtiar Rahmani,Midfielder
+525, Iran,Ashkan Dejagah,Midfielder
+526, Iran,Alireza Jahanbakhsh,Forward
+527, Iran,Karim Ansarifard,Forward
+528, Iran,Reza Ghoochanneijhad,Forward
+529, Nigeria,Vincent Enyeama,Goalkeeper
+530, Nigeria,Austin Ejide,Goalkeeper
+531, Nigeria,Chigozie Agbim,Goalkeeper
+532, Nigeria,Joseph Yobo,Defender
+533, Nigeria,Efe Ambrose,Defender
+534, Nigeria,Azubuike Egwuekwe,Defender
+535, Nigeria,Kunle Odunlami,Defender
+536, Nigeria,Juwon Oshaniwa,Defender
+537, Nigeria,Godfrey Oboabona,Defender
+538, Nigeria,Kenneth Omeruo,Defender
+539, Nigeria,Ejike Uzoenyi,Midfielder
+540, Nigeria,Reuben Gabriel,Midfielder
+541, Nigeria,John Obi Mikel,Midfielder
+542, Nigeria,Ramón Azeez,Midfielder
+543, Nigeria,Ogenyi Onazi,Midfielder
+544, Nigeria,Michel Babatunde,Midfielder
+545, Nigeria,Ahmed Musa,Forward
+546, Nigeria,Peter Odemwingie,Forward
+547, Nigeria,Emmanuel Emenike,Forward
+548, Nigeria,Victor Moses,Forward
+549, Nigeria,Uche Nwofor,Forward
+550, Nigeria,Michael Uchebo,Forward
+551, Nigeria,Shola Ameobi,Forward
+552, Germany,Manuel Neuer,Goalkeeper
+553, Germany,Ron-Robert Zieler,Goalkeeper
+554, Germany,Roman Weidenfeller,Goalkeeper
+555, Germany,Kevin Grosskreutz,Defender
+556, Germany,Matthias Ginter,Defender
+557, Germany,Benedikt Höwedes,Defender
+558, Germany,Mats Hummels,Defender
+559, Germany,Erik Durm,Defender
+560, Germany,Per Mertesacker,Defender
+561, Germany,Jerome Boateng,Defender
+562, Germany,Shkodran Mustafi,Defender
+563, Germany,Sami Khedira,Midfielder
+564, Germany,Bastian Schweinsteiger,Midfielder
+565, Germany,Mesut Ozil,Midfielder
+566, Germany,Julian Draxler,Midfielder
+567, Germany,Philipp Lahm,Midfielder
+568, Germany,Toni Kroos,Midfielder
+569, Germany,Christoph Kramer,Midfielder
+570, Germany,André Schürrle,Forward
+571, Germany,Lukas Podolski,Forward
+572, Germany,Miroslav Klose,Forward
+573, Germany,Thomas Mueller,Forward
+574, Germany,Mario Götze,Forward
+575, Ghana,Stephen Adams,Goalkeeper
+576, Ghana,Adam Kwarasey,Goalkeeper
+577, Ghana,Fatau Dauda,Goalkeeper
+578, Ghana,Samuel Inkoom,Defender
+579, Ghana,Daniel Opare,Defender
+580, Ghana,Rashid Sumaila,Defender
+581, Ghana,Jonathan Mensah,Defender
+582, Ghana,John Boye,Defender
+583, Ghana,Harrison Afful,Defender
+584, Ghana,Michael Essien,Midfielder
+585, Ghana,Afriyie Acquah,Midfielder
+586, Ghana,Christian Atsu,Midfielder
+587, Ghana,Emmanuel Agyemang-Badu,Midfielder
+588, Ghana,Andre Ayew,Midfielder
+589, Ghana,Sulley Muntari,Midfielder
+590, Ghana,Albert Adomah,Midfielder
+591, Ghana,Mohammed Rabiu,Midfielder
+592, Ghana,Kwadwo Asamoah,Midfielder
+593, Ghana,Mubarak Wakaso,Midfielder
+594, Ghana,Asamoah Gyan,Forward
+595, Ghana,Kevin Prince Boateng,Forward
+596, Ghana,Jordan Ayew,Forward
+597, Ghana,Majeed Waris,Forward
+598, Portugal, Eduardo,Goalkeeper
+599, Portugal,Rui Patricio,Goalkeeper
+600, Portugal, Beto,Goalkeeper
+601, Portugal,Bruno Alves,Defender
+602, Portugal,Fabio Coentrao,Defender
+603, Portugal,Ricardo Costa,Defender
+604, Portugal, Neto,Defender
+605, Portugal,André Almeida,Defender
+606, Portugal,João Pereira,Defender
+607, Portugal, Pepe,Midfielder
+608, Portugal,Miguel Veloso,Midfielder
+609, Portugal,William Carvalho,Midfielder
+610, Portugal,João Moutinho,Midfielder
+611, Portugal, Vieirinha,Midfielder
+612, Portugal, Rafa,Midfielder
+613, Portugal,Raul Meireles,Midfielder
+614, Portugal, Nani,Midfielder
+615, Portugal,Ruben Amorim,Midfielder
+616, Portugal, Cristiano Ronaldo,Forward
+617, Portugal,Hugo Almeida,Forward
+618, Portugal, Eder,Forward
+619, Portugal,Silvestre Varela,Forward
+620, Portugal,Helder  Postiga,Forward
+621, USA,Tim Howard,Goalkeeper
+622, USA,Brad Guzan,Goalkeeper
+623, USA,Nick Rimando,Goalkeeper
+624, USA,DeAndre Yedlin,Defender
+625, USA,Omar González,Defender
+626, USA,Matt Besler,Defender
+627, USA,John Anthony Brooks,Defender
+628, USA,DaMarcus Beasley,Defender
+629, USA,Geoff Cameron,Defender
+630, USA,Timothy Chandler,Defender
+631, USA,Fabian Johnson,Defender
+632, USA,Michael Bradley,Midfielder
+633, USA,Mix Diskerud,Midfielder
+634, USA,Alejandro Bedoya,Midfielder
+635, USA,Jermaine Jones,Midfielder
+636, USA,Brad Davis,Midfielder
+637, USA,Kyle Beckerman,Midfielder
+638, USA,Julian Green,Midfielder
+639, USA,Graham Zusi,Midfielder
+640, USA,Clint Dempsey,Forward
+641, USA,Aron Jóhannsson,Forward
+642, USA,Jozy Altidore,Forward
+643, USA,Chris Wondolowski,Forward
+644, Algeria,Cédric Si Mohamed,Goalkeeper
+645, Algeria,Mohamed Zemmamouche,Goalkeeper
+646, Algeria,Rais M'Bolhi,Goalkeeper
+647, Algeria,Madjid Bougherra,Defender
+648, Algeria,Faouzi Ghoulam,Defender
+649, Algeria,Essaïd Belkalem,Defender
+650, Algeria,Rafik Halliche,Defender
+651, Algeria,Djamel Mesbah,Defender
+652, Algeria,Carl Medjani,Defender
+653, Algeria,Liassine Cadamuro,Defender
+654, Algeria,Aissa Mandi,Defender
+655, Algeria,Hassan Yebda,Midfielder
+656, Algeria,Medhi Lacen,Midfielder
+657, Algeria,Yacine Brahimi,Midfielder
+658, Algeria,Nabil Bentaleb,Midfielder
+659, Algeria,Abdelmoumene Djabou,Midfielder
+660, Algeria,Saphir Taïder,Midfielder
+661, Algeria,Mehdi Mostefa,Midfielder
+662, Algeria,Nabil Ghilas,Forward
+663, Algeria,Sofiane Feghouli,Forward
+664, Algeria,Islam Slimani,Forward
+665, Algeria,El Arabi Soudani,Forward
+666, Algeria,Riyad Mahrez,Forward
+667, Belgium,Thibaut Courtois,Goalkeeper
+668, Belgium,Simon Mignolet,Goalkeeper
+669, Belgium,Sammy Bossut,Goalkeeper
+670, Belgium,Toby Alderweireld,Defender
+671, Belgium,Thomas Vermaelen,Defender
+672, Belgium,Vincent Kompany,Defender
+673, Belgium,Jan Vertonghen,Defender
+674, Belgium,Daniel van Buyten,Defender
+675, Belgium,Nicolas Lombaerts,Defender
+676, Belgium,Anthony Vanden Borre,Defender
+677, Belgium,Laurent Ciman,Defender
+678, Belgium,Axel Witsel,Midfielder
+679, Belgium,Kevin De Bruyne,Midfielder
+680, Belgium,Marouane Fellaini,Midfielder
+681, Belgium,Eden Hazard,Midfielder
+682, Belgium,Dries Mertens,Midfielder
+683, Belgium,Steven Defour,Midfielder
+684, Belgium,Mousa Dembélé,Midfielder
+685, Belgium,Adnan Januzaj,Midfielder
+686, Belgium,Nacer Chadli,Midfielder
+687, Belgium,Romelu Lukaku,Forward
+688, Belgium,Kevin Mirallas,Forward
+689, Belgium,Divock Origi,Forward
+690, Russia,Igor Akinfeev,Goalkeeper
+691, Russia,Juri Lodygin,Goalkeeper
+692, Russia,Sergei Ryzhikov,Goalkeeper
+693, Russia,Aleksei Kozlov,Defender
+694, Russia,Georgy Schennikov,Defender
+695, Russia,Sergei Ignashevitch,Defender
+696, Russia,Andrey Semenov,Defender
+697, Russia,Vladimir Granat,Defender
+698, Russia,Vassili Berezutski,Defender
+699, Russia,Andrey Yeshchenko,Defender
+700, Russia,Igor Denisov,Midfielder
+701, Russia,Denis Glushakov,Midfielder
+702, Russia,Alan Dzagoev,Midfielder
+703, Russia,Pavel Mogilevets,Midfielder
+704, Russia,Oleg Shatov,Midfielder
+705, Russia,Yuri Zhirkov,Midfielder
+706, Russia,Aleksandr Samedov,Midfielder
+707, Russia,Viktor Faizulin,Midfielder
+708, Russia,Aleksey Ionov,Midfielder
+709, Russia,Dmitriy Kombarov,Midfielder
+710, Russia,Maksim Kanunnikov,Forward
+711, Russia,Alexander Kokorin,Forward
+712, Russia,Alexander Kerzhakov,Forward
+713, South Korea,Sung Ryong Jung,Goalkeeper
+714, South Korea,Seung-Gyu Kim,Goalkeeper
+715, South Korea,Bum-Young Lee,Goalkeeper
+716, South Korea,Chang-Soo Kim,Defender
+717, South Korea,Suk-Young Yun,Defender
+718, South Korea,Tae-Hwi Kwak,Defender
+719, South Korea,Young-Gwon Kim,Defender
+720, South Korea,Seok-Ho Hwang,Defender
+721, South Korea,Yong Lee,Defender
+722, South Korea,Jeong-Ho Hong,Defender
+723, South Korea,Joo-Ho Park,Defender
+724, South Korea,Bo Kyung Kim,Midfielder
+725, South Korea,Dae-Sung Ha,Midfielder
+726, South Korea,Ja-Cheol Koo,Midfielder
+727, South Korea,Kook-Young Han,Midfielder
+728, South Korea,Jong-Woo Park,Midfielder
+729, South Korea,Sung Yueng Ki,Midfielder
+730, South Korea,Chung Yong Lee,Midfielder
+731, South Korea,Heung-Min Son,Forward
+732, South Korea,Chu Young Park,Forward
+733, South Korea,Keun-Ho Lee,Forward
+734, South Korea,Shin-Wook Kim,Forward
+735, South Korea,Dong-Won Ji,Forward
