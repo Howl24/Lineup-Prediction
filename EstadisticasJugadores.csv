@@ -1,0 +1,955 @@
+Name,Country,Age,Position,Minutes played,Appearances,Lneups,Substitute in,Substitute out,Substitutes on bench,Goal,Assist,Yellow card,Yellow 2nd_RC,Red card
+M. Neuer,Alemania,32,G,136,2,2,0,1,0,0,0,0,0,0
+K. Trapp,Alemania,27,G,90,1,1,0,0,2,0,0,0,0,0
+M. ter Stegen,Alemania,26,G,134,2,1,1,0,3,0,0,0,0,0
+B. Leno,Alemania,26,G,0,0,0,0,0,3,0,0,0,0,0
+J. Boateng,Alemania,29,D,204,3,3,0,2,0,0,0,0,0,0
+M. Hummels,Alemania,29,D,180,2,2,0,0,1,0,0,0,0,0
+M. Plattenhardt,Alemania,26,D,90,1,1,0,0,3,0,0,0,0,0
+A. R�diger,Alemania,25,D,180,2,2,0,0,2,0,0,0,0,0
+N. S�le,Alemania,22,D,156,3,1,2,0,3,0,0,0,0,0
+M. Ginter,Alemania,24,D,9,1,0,1,0,4,0,0,0,0,0
+J. Kimmich,Alemania,23,D,351,4,4,0,1,0,0,0,0,0,0
+J. Tah,Alemania,22,D,0,0,0,0,0,1,0,0,0,0,0
+M. �zil,Alemania,29,M,166,2,2,0,1,1,1,0,0,0,0
+S. Khedira,Alemania,31,M,189,3,3,0,2,1,0,1,0,0,0
+T. Kroos,Alemania,28,M,270,3,3,0,0,0,0,0,0,0,0
+S. Rudy,Alemania,28,M,44,1,0,1,0,3,0,0,0,0,0
+?. G�ndo?an,Alemania,27,M,207,4,2,2,2,2,0,0,0,0,0
+J. Hector,Alemania,28,M,270,3,3,0,0,1,0,0,0,0,0
+J. Draxler,Alemania,24,M,262,4,3,1,1,1,0,0,0,0,0
+L. Goretzka,Alemania,23,M,104,3,1,2,1,3,0,0,0,0,0
+M. G�mez,Alemania,32,A,110,4,1,3,1,3,0,0,0,0,0
+N. Petersen,Alemania,29,A,76,1,1,0,1,0,0,0,0,0,0
+T. M�ller,Alemania,28,A,155,2,2,0,2,0,1,0,0,0,0
+L. Stindl,Alemania,29,A,29,1,0,1,0,2,0,0,0,0,0
+M. Reus,Alemania,29,A,80,2,1,1,1,1,0,1,0,0,0
+S. Wagner,Alemania,30,A,28,1,0,1,0,2,0,0,0,0,0
+J. Brandt,Alemania,22,A,112,3,1,2,1,3,0,0,0,0,0
+T. Werner,Alemania,22,A,178,4,2,2,2,2,1,0,0,0,0
+L. San�,Alemania,22,A,150,3,2,1,2,1,0,0,0,0,0
+I. Akinfeev,Rusia,32,G,90,1,1,0,0,0,0,0,0,0,0
+A. Lunev,Rusia,26,G,0,0,0,0,0,1,0,0,0,0,0
+V. Gabulov,Rusia,34,G,0,0,0,0,0,1,0,0,0,0,0
+M. Fernandes,Rusia,27,D,90,1,1,0,0,0,0,0,0,0,0
+I. Kutepov,Rusia,24,D,90,1,1,0,0,0,0,0,0,0,0
+S. Ignashevich,Rusia,38,D,90,1,1,0,0,0,0,0,0,0,0
+A. Semenov,Rusia,29,D,0,0,0,0,0,1,0,0,0,0,0
+F. Kudryashov,Rusia,31,D,0,0,0,0,0,1,0,0,0,0,0
+V. Granat,Rusia,31,D,0,0,0,0,0,1,0,0,0,0,0
+I. Smolnikov,Rusia,29,D,0,0,0,0,0,1,0,0,0,0,0
+D. Cheryshev,Rusia,27,M,66,1,0,1,0,1,2,0,0,0,0
+D. Kuzyaev,Rusia,25,M,26,1,0,1,0,1,0,0,0,0,0
+Y. Gazinskiy,Rusia,28,M,90,1,1,0,0,0,1,0,0,0,0
+A. Dzagoev,Rusia,27,M,24,1,1,0,1,0,0,0,0,0,0
+R. Zobnin,Rusia,24,M,90,1,1,0,0,0,0,1,0,0,0
+Aleksey Miranchuk,Rusia,22,M,0,0,0,0,0,1,0,0,0,0,0
+Anton Miranchuk,Rusia,22,M,0,0,0,0,0,1,0,0,0,0,0
+A. Golovin,Rusia,22,M,90,1,1,0,0,0,1,2,1,0,0
+Y. Zhirkov,Rusia,34,M,90,1,1,0,0,0,0,0,0,0,0
+A. Samedov,Rusia,33,M,64,1,1,0,1,0,0,0,0,0,0
+A. Erokhin,Rusia,28,M,0,0,0,0,0,1,0,0,0,0,0
+F. Smolov,Rusia,28,A,70,1,1,0,1,0,0,0,0,0,0
+A. Dzyuba,Rusia,29,A,20,1,0,1,0,1,1,1,0,0,0
+Abdullah Al Maiouf,Arabia Saudita,31,G,90,1,1,0,0,0,0,0,0,0,
+Yasser Al Mosailem,Arabia Saudita,34,G,0,0,0,0,0,1,0,0,0,0,
+Mohammed Al Owais,Arabia Saudita,26,G,0,0,0,0,0,1,0,0,0,0,
+Mansour Al Harbi,Arabia Saudita,30,D,0,0,0,0,0,1,0,0,0,0,
+Osama Hawsawi,Arabia Saudita,34,D,90,1,1,0,0,0,0,0,0,0,
+Ali Albulayhi,Arabia Saudita,28,D,0,0,0,0,0,1,0,0,0,0,
+Omar Hawsawi,Arabia Saudita,32,D,90,1,1,0,0,0,0,0,0,0,
+Mohammed Al Burayk,Arabia Saudita,25,D,90,1,1,0,0,0,0,0,0,0,
+Yasir Al Shahrani,Arabia Saudita,25,D,90,1,1,0,0,0,0,0,0,0,
+Motaz Hawsawi,Arabia Saudita,26,D,0,0,0,0,0,1,0,0,0,0,
+Salman Al Faraj,Arabia Saudita,28,M,90,1,1,0,0,0,0,0,0,0,
+Yehya Al Shehri,Arabia Saudita,27,M,74,1,1,0,1,0,0,0,0,0,
+Hattan Babhir,Arabia Saudita,25,M,16,1,0,1,0,1,0,0,0,0,
+Abdulmalek Al Khaibri,Arabia Saudita,32,M,0,0,0,0,0,1,0,0,0,0,
+Mohammed Kanoo,Arabia Saudita,23,M,0,0,0,0,0,1,0,0,0,0,
+Abdullah Otayf,Arabia Saudita,25,M,64,1,1,0,1,0,0,0,0,0,
+Abdullah Alkhaibari,Arabia Saudita,21,M,0,0,0,0,0,1,0,0,0,0,
+Hussain Al Mogahwi,Arabia Saudita,30,M,0,0,0,0,0,1,0,0,0,0,
+Taisir Al Jassim,Arabia Saudita,33,M,90,1,1,0,0,0,0,1,0,0,
+Salem Al Dawsari,Arabia Saudita,26,M,90,1,1,0,0,0,0,0,0,0,
+Mohammad Al Sahlawi,Arabia Saudita,31,A,85,1,1,0,1,0,0,0,0,0,
+Fahad Al Muwallad,Arabia Saudita,23,A,26,1,0,1,0,1,0,0,0,0,
+Mohanad Aseri,Arabia Saudita,31,A,5,1,0,1,0,1,0,0,0,0,
+Essam El Hadary,Egipto,45,G,0,0,0,0,0,1,0,0,0,0,
+Sherif Ekramy,Egipto,34,G,0,0,0,0,0,1,0,0,0,0,
+Mohamed El Shenawy,Egipto,29,G,90,1,1,0,0,0,0,0,0,0,
+Ali Gabr,Egipto,29,D,90,1,1,0,0,0,0,0,0,0,
+Omar Gaber,Egipto,26,D,0,0,0,0,0,1,0,0,0,0,
+Ahmed Hegazi,Egipto,27,D,90,1,1,0,0,0,0,1,0,0,
+Ahmed Fathy,Egipto,33,D,90,1,1,0,0,0,0,0,0,0,
+Ayman Ashraf,Egipto,27,D,0,0,0,0,0,1,0,0,0,0,
+Mohamed Abdul Shafy,Egipto,32,D,90,1,1,0,0,0,0,0,0,0,
+Mahmoud Hamdi El Wensh,Egipto,23,D,0,0,0,0,0,1,0,0,0,0,
+Saad Samir,Egipto,29,D,0,0,0,0,0,1,0,0,0,0,
+Ahmed El Mohamady,Egipto,30,M,0,0,0,0,0,1,0,0,0,0,
+Sam Morsy,Egipto,26,M,40,1,0,1,0,1,0,1,0,0,
+Tarek Hamed,Egipto,29,M,50,1,1,0,1,0,0,0,0,0,
+Kahraba,Egipto,24,M,27,1,0,1,0,1,0,0,0,0,
+Mohamed Elneny,Egipto,25,M,90,1,1,0,0,0,0,0,0,0,
+Shikabala,Egipto,32,M,0,0,0,0,0,1,0,0,0,0,
+Abdalla El Said,Egipto,32,M,90,1,1,0,0,0,0,0,0,0,
+Tr�z�guet,Egipto,23,M,90,1,1,0,0,0,0,0,0,0,
+Amr Warda,Egipto,24,M,82,1,1,0,1,0,0,0,0,0,
+Marwan Mohsen,Egipto,29,A,63,1,1,0,1,0,0,0,0,0,
+Mohamed Salah,Egipto,26,A,0,0,0,0,0,1,0,0,0,0,
+Ramadan Sobhi,Egipto,21,A,8,1,0,1,0,1,0,0,0,0,
+F. Muslera,Uruguay,32,G,90,1,1,0,0,0,0,0,0,0,0
+M. Campa�a,Uruguay,29,G,0,0,0,0,0,1,0,0,0,0,0
+M. Silva,Uruguay,35,G,0,0,0,0,0,1,0,0,0,0,0
+J. Gim�nez,Uruguay,23,D,90,1,1,0,0,0,1,0,0,0,0
+D. God�n,Uruguay,32,D,90,1,1,0,0,0,0,0,0,0,0
+G. Varela,Uruguay,25,D,90,1,1,0,0,0,0,0,0,0,0
+G. Silva,Uruguay,24,D,0,0,0,0,0,1,0,0,0,0,0
+M. Pereira,Uruguay,34,D,0,0,0,0,0,1,0,0,0,0,0
+S. Coates,Uruguay,27,D,0,0,0,0,0,1,0,0,0,0,0
+M. C�ceres,Uruguay,31,D,90,1,1,0,0,0,0,0,0,0,0
+C. S�nchez,Uruguay,33,M,32,1,0,1,0,1,0,1,0,0,0
+R. Bentancur,Uruguay,20,M,90,1,1,0,0,0,0,0,0,0,0
+C. Rodr�guez,Uruguay,32,M,31,1,0,1,0,1,0,0,0,0,0
+N. N�ndez,Uruguay,22,M,58,1,1,0,1,0,0,0,0,0,0
+G. De Arrascaeta,Uruguay,24,M,59,1,1,0,1,0,0,0,0,0,0
+L. Torreira,Uruguay,22,M,3,1,0,1,0,1,0,0,0,0,0
+M. Vecino,Uruguay,26,M,87,1,1,0,1,0,0,0,0,0,0
+D. Laxalt,Uruguay,25,M,0,0,0,0,0,1,0,0,0,0,0
+J. Urretaviscaya,Uruguay,28,M,0,0,0,0,0,1,0,0,0,0,0
+L. Su�rez,Uruguay,31,A,90,1,1,0,0,0,0,0,0,0,0
+C. Stuani,Uruguay,31,A,0,0,0,0,0,1,0,0,0,0,0
+M. G�mez,Uruguay,21,A,0,0,0,0,0,1,0,0,0,0,0
+E. Cavani,Uruguay,31,A,90,1,1,0,0,0,0,0,0,0,0
+Y. Bounou,Marruecos,27,G,0,0,0,0,0,1,0,0,0,0,
+Munir,Marruecos,29,G,90,1,1,0,0,0,0,0,0,0,
+A. Tagnaouti,Marruecos,22,G,0,0,0,0,0,1,0,0,0,0,
+A. Hakimi,Marruecos,19,D,90,1,1,0,0,0,0,0,0,0,
+H. Mendyl,Marruecos,20,D,0,0,0,0,0,1,0,0,0,0,
+M. da Costa,Marruecos,32,D,8,1,0,1,0,1,0,0,0,0,
+M. Benatia,Marruecos,31,D,90,1,1,0,0,0,0,0,0,0,
+R. Sa�ss,Marruecos,28,M,90,1,1,0,0,0,0,0,0,0,
+H. Ziyech,Marruecos,25,M,90,1,1,0,0,0,0,0,0,0,
+K. El Ahmadi,Marruecos,33,M,90,1,1,0,0,0,0,1,0,0,
+Y. Belhanda,Marruecos,28,M,90,1,1,0,0,0,0,0,0,0,
+F. Fajr,Marruecos,29,M,0,0,0,0,0,1,0,0,0,0,
+M. Boussoufa,Marruecos,33,M,90,1,1,0,0,0,0,0,0,0,
+Y. A�t Bennasser,Marruecos,21,M,0,0,0,0,0,1,0,0,0,0,
+N. Dirar,Marruecos,32,M,0,0,0,0,0,1,0,0,0,0,
+A. Harit,Marruecos,20,M,82,1,1,0,1,0,0,0,0,0,
+S. Amrabat,Marruecos,21,M,14,1,0,1,0,1,0,0,0,0,
+M. Carcela,Marruecos,28,M,0,0,0,0,0,1,0,0,0,0,
+A. El Kaabi,Marruecos,24,A,77,1,1,0,1,0,0,0,0,0,
+K. Bouta�b,Marruecos,31,A,0,0,0,0,0,1,0,0,0,0,
+N. Amrabat,Marruecos,31,A,76,1,1,0,1,0,0,0,0,0,
+Y. En-Nesyri,Marruecos,21,A,0,0,0,0,0,1,0,0,0,0,
+A. Bouhaddouz,Marruecos,31,A,13,1,0,1,0,1,0,0,0,0,
+A. Beiranvand,Iran,25,G,90,1,1,0,0,0,0,0,0,0,
+M. Mazaheri,Iran,29,G,0,0,0,0,0,1,0,0,0,0,
+A. Abedzadeh,Iran,25,G,0,0,0,0,0,1,0,0,0,0,
+R. Cheshmi,Iran,24,D,90,1,1,0,0,0,0,0,0,0,
+Milad Mohammadi,Iran,24,D,0,0,0,0,0,1,0,0,0,0,
+M. Pouraliganji,Iran,26,D,90,1,1,0,0,0,0,0,0,0,
+M. Khanzadeh,Iran,27,D,0,0,0,0,0,1,0,0,0,0,
+P. Montazeri,Iran,34,D,0,0,0,0,0,1,0,0,0,0,
+M. Hosseini,Iran,21,D,10,1,0,1,0,1,0,0,0,0,
+R. Rezaeian,Iran,28,D,90,1,1,0,0,0,0,0,0,0,
+M. Torabi,Iran,23,M,0,0,0,0,0,1,0,0,0,0,
+E. Hajsafi,Iran,28,M,90,1,1,0,0,0,0,0,0,0,
+M. Shojaei,Iran,34,M,68,1,1,0,1,0,0,1,0,0,
+O. Ebrahimi,Iran,30,M,80,1,1,0,1,0,0,0,0,0,
+V. Amiri,Iran,30,M,90,1,1,0,0,0,0,0,0,0,
+A. Dejagah,Iran,31,M,0,0,0,0,0,1,0,0,0,0,
+K. Ansarifard,Iran,28,A,90,1,1,0,0,0,0,1,0,0,
+S. Ghoddos,Iran,24,A,5,1,0,1,0,1,0,0,0,0,
+R. Ghoochannejhad,Iran,30,A,0,0,0,0,0,1,0,0,0,0,
+M. Taremi,Iran,25,A,22,1,0,1,0,1,0,0,0,0,
+A. Jahanbakhsh,Iran,24,A,85,1,1,0,1,0,0,1,0,0,
+S. Azmoun,Iran,23,A,90,1,1,0,0,0,0,0,0,0,
+Rui Patr�cio,Portugal,30,G,90,1,1,0,0,0,0,0,0,0,0
+Anthony Lopes,Portugal,27,G,0,0,0,0,0,1,0,0,0,0,0
+Beto,Portugal,36,G,0,0,0,0,0,1,0,0,0,0,0
+Bruno Alves,Portugal,36,D,0,0,0,0,0,1,0,0,0,0,0
+Pepe,Portugal,35,D,90,1,1,0,0,0,0,0,0,0,0
+Rapha�l Guerreiro,Portugal,24,D,90,1,1,0,0,0,0,0,0,0,0
+Jos� Fonte,Portugal,34,D,90,1,1,0,0,0,0,0,0,0,0
+R�ben Dias,Portugal,21,D,0,0,0,0,0,1,0,0,0,0,0
+Ricardo Pereira,Portugal,24,D,0,0,0,0,0,1,0,0,0,0,0
+M�rio Rui,Portugal,27,D,0,0,0,0,0,1,0,0,0,0,0
+C�dric Soares,Portugal,26,D,90,1,1,0,0,0,0,0,0,0,0
+Manuel Fernandes,Portugal,32,M,0,0,0,0,0,1,0,0,0,0,0
+Jo�o Moutinho,Portugal,31,M,90,1,1,0,0,0,0,0,0,0,0
+Jo�o M�rio,Portugal,25,M,22,1,0,1,0,1,0,0,0,0,0
+Bernardo Silva,Portugal,23,M,69,1,1,0,1,0,0,0,0,0,0
+William Carvalho,Portugal,26,M,90,1,1,0,0,0,0,0,0,0,0
+Bruno Fernandes,Portugal,23,M,68,1,1,0,1,0,0,0,1,0,0
+Gon�alo Guedes,Portugal,21,M,80,1,1,0,1,0,0,1,0,0,0
+Ricardo Quaresma,Portugal,34,M,21,1,0,1,0,1,0,0,0,0,0
+Adrien Silva,Portugal,29,M,0,0,0,0,0,1,0,0,0,0,0
+Cristiano Ronaldo,Portugal,33,A,90,1,1,0,0,0,3,0,0,0,0
+Andr� Silva,Portugal,22,A,10,1,0,1,0,1,0,0,0,0,0
+Gelson Martins,Portugal,23,A,0,0,0,0,0,1,0,0,0,0,0
+David de Gea,Espana,27,G,90,1,1,0,0,0,0,0,0,0,0
+Kepa,Espana,23,G,0,0,0,0,0,1,0,0,0,0,0
+Pepe Reina,Espana,35,G,0,0,0,0,0,1,0,0,0,0,0
+Daniel Carvajal,Espana,26,D,0,0,0,0,0,1,0,0,0,0,0
+Piqu�,Espana,31,D,90,1,1,0,0,0,0,0,0,0,0
+Nacho,Espana,28,D,90,1,1,0,0,0,1,0,0,0,0
+�lvaro Odriozola,Espana,22,D,0,0,0,0,0,1,0,0,0,0,0
+Azpilicueta,Espana,28,D,0,0,0,0,0,1,0,0,0,0,0
+Sergio Ramos,Espana,32,D,90,1,1,0,0,0,0,0,0,0,0
+Nacho Monreal,Espana,32,D,0,0,0,0,0,1,0,0,0,0,0
+Jordi Alba,Espana,29,D,90,1,1,0,0,0,0,0,0,0,0
+Sergio Busquets,Espana,29,M,90,1,1,0,0,0,0,1,1,0,0
+Iniesta,Espana,34,M,70,1,1,0,1,0,0,0,0,0,0
+Sa�l,Espana,23,M,0,0,0,0,0,1,0,0,0,0,0
+Koke,Espana,26,M,90,1,1,0,0,0,0,0,0,0,0
+Thiago Alc�ntara,Espana,27,M,20,1,0,1,0,1,0,0,0,0,0
+Lucas V�zquez,Espana,26,M,4,1,0,1,0,1,0,0,0,0,0
+Marco Asensio,Espana,22,M,0,0,0,0,0,1,0,0,0,0,0
+David Silva,Espana,32,M,86,1,1,0,1,0,0,0,0,0,0
+Isco,Espana,26,M,90,1,1,0,0,0,0,0,0,0,0
+Rodrigo,Espana,27,A,0,0,0,0,0,1,0,0,0,0,0
+Iago Aspas,Espana,30,A,13,1,0,1,0,1,0,0,0,0,0
+Diego Costa,Espana,29,A,77,1,1,0,1,0,2,0,0,0,0
+H. Lloris,Francia,31,G,360,4,4,0,0,1,0,0,0,0,0
+S. Mandanda,Francia,33,G,90,1,1,0,0,4,0,0,0,0,0
+A. Areola,Francia,25,G,0,0,0,0,0,5,0,0,0,0,0
+A. Rami,Francia,32,D,180,2,2,0,0,1,0,0,0,0,0
+L. Koscielny,Francia,32,D,90,1,1,0,0,1,0,0,0,0,0
+D. Sidib�,Francia,25,D,246,3,3,0,2,2,0,0,0,0,0
+L. Digne,Francia,24,D,76,1,1,0,1,1,0,0,1,0,0
+R. Varane,Francia,25,D,180,2,2,0,0,2,0,0,0,0,0
+S. Umtiti,Francia,24,D,414,5,5,0,2,0,1,0,0,0,0
+B. Mendy,Francia,23,D,157,3,2,1,2,1,0,0,0,0,0
+P. Kimpembe,Francia,22,D,36,2,0,2,0,5,0,0,0,0,0
+L. Hern�ndez,Francia,22,D,217,5,2,3,1,3,0,0,0,0,0
+B. Pavard,Francia,22,D,204,4,2,2,0,3,0,1,0,0,0
+B. Matuidi,Francia,31,M,235,5,3,2,2,2,0,1,0,0,0
+S. N'Zonzi,Francia,29,M,94,2,1,1,0,2,0,0,0,0,0
+P. Pogba,Francia,25,M,304,5,3,2,1,2,1,1,0,0,0
+T. Lemar,Francia,22,M,115,4,1,3,0,4,1,0,0,0,0
+N. Kant�,Francia,27,M,336,4,4,0,1,1,0,0,0,0,0
+C. Tolisso,Francia,23,M,210,4,2,2,2,3,0,0,0,0,0
+A. Rabiot,Francia,23,M,81,1,1,0,1,1,0,0,0,0,0
+O. Giroud,Francia,31,A,252,5,3,2,2,2,2,0,0,0,0
+A. Griezmann,Francia,27,A,287,5,3,2,3,2,1,0,0,0,0
+W. Ben Yedder,Francia,27,A,17,1,0,1,0,2,0,0,0,0,0
+F. Thauvin,Francia,25,A,14,2,0,2,0,4,0,0,0,0,0
+N. Fekir,Francia,24,A,85,2,1,1,1,2,1,0,0,0,0
+A. Martial,Francia,22,A,58,1,1,0,1,1,0,0,0,0,0
+O. Demb�l�,Francia,21,A,212,5,2,3,2,3,1,0,0,0,0
+K. Mbapp�,Francia,19,A,400,5,5,0,5,0,3,2,1,0,0
+B. Jones,Australia,36,G,90,2,1,1,1,3,0,0,0,0,0
+D. Vukovi?,Australia,33,G,44,1,0,1,0,4,0,0,0,0,0
+M. Ryan,Australia,26,G,226,3,3,0,1,1,0,0,0,0,0
+J. Meredith,Australia,30,D,0,0,0,0,0,4,0,0,0,0,0
+M. Jurman,Australia,28,D,0,0,0,0,0,2,0,0,0,0,0
+A. Behich,Australia,27,D,360,4,4,0,0,0,0,0,0,0,0
+T. Sainsbury,Australia,26,D,180,2,2,0,0,0,0,0,0,0,0
+B. Wright,Australia,25,D,52,1,1,0,1,1,0,0,0,0,0
+J. Risdon,Australia,25,D,256,3,3,0,1,1,0,0,0,0,0
+M. Degenek,Australia,24,D,194,3,2,1,0,2,0,0,0,0,0
+A. �u�njar,Australia,22,D,38,1,0,1,0,2,0,0,0,0,0
+F. Kara?i?,Australia,22,D,0,0,0,0,0,1,0,0,0,0,0
+M. Milligan,Australia,32,M,360,4,4,0,0,0,0,0,0,0,0
+M. Jedinak,Australia,33,M,195,3,2,1,1,2,0,0,1,0,0
+M. Leckie,Australia,27,M,347,4,4,0,3,0,2,0,1,0,0
+A. Mooy,Australia,27,M,270,3,3,0,0,0,0,2,0,0,0
+J. Brillante,Australia,25,M,0,0,0,0,0,3,0,0,0,0,0
+M. Luongo,Australia,25,M,255,4,3,1,2,1,0,0,0,0,0
+J. Irvine,Australia,25,M,111,4,1,3,1,3,1,1,0,0,0
+T. Rogi?,Australia,25,M,242,4,3,1,3,1,0,0,0,0,0
+A. Nabbout,Australia,25,M,247,4,4,0,4,0,1,0,0,0,0
+D. Arzani,Australia,19,M,23,2,0,2,0,2,1,0,0,0,0
+T. Cahill,Australia,38,A,37,2,0,2,0,4,0,0,0,0,0
+J. Troisi,Australia,29,A,7,1,0,1,0,2,0,0,0,0,0
+N. Rukavytsya,Australia,30,A,7,2,0,2,0,3,0,0,0,0,0
+R. Kruse,Australia,29,A,179,4,2,2,2,2,0,1,0,0,0
+D. Petratos,Australia,25,A,91,2,1,1,1,3,0,0,0,0,0
+T. Juri?,Australia,26,A,120,3,1,2,2,3,0,0,0,0,0
+J. MacLaren,Australia,24,A,29,1,0,1,0,2,0,0,0,0,0
+P. Gallese,Peru,28,G,180,2,2,0,0,1,0,0,0,0,0
+J. Carvallo,Peru,32,G,90,1,1,0,0,4,0,0,0,0,0
+C. C�ceda,Peru,26,G,180,2,2,0,0,3,0,0,0,0,0
+A. Duarte,Peru,24,G,0,0,0,0,0,2,0,0,0,0,0
+A. Rodr�guez,Peru,34,D,171,2,2,0,1,2,0,0,0,0,0
+A. Corzo,Peru,29,D,34,3,0,3,0,5,0,0,0,0,0
+C. Ramos,Peru,29,D,388,5,5,0,2,0,0,0,1,0,0
+L. Adv�ncula,Peru,28,D,416,5,5,0,3,0,0,0,0,0,0
+A. Santamar�a,Peru,26,D,279,4,3,1,0,2,0,0,0,0,0
+M. Trauco,Peru,25,D,421,5,5,0,1,0,0,2,0,0,0
+M. Araujo,Peru,23,D,62,2,0,2,0,5,0,0,0,0,0
+L. Abram,Peru,22,D,0,0,0,0,0,3,0,0,0,0,0
+N. Loyola,Peru,23,D,29,1,0,1,0,5,0,0,1,0,0
+P. Hurtado,Peru,27,M,61,4,0,4,0,5,0,0,0,0,0
+Y. Yot�n,Peru,28,M,323,4,4,0,1,1,0,1,1,1,0
+C. Cueva,Peru,26,M,378,5,5,0,5,0,1,0,1,0,0
+R. Tapia,Peru,22,M,423,5,5,0,3,0,1,0,1,0,0
+P. Aquino,Peru,23,M,37,3,0,3,0,5,0,0,1,0,0
+C. Benavente,Peru,24,M,50,2,0,2,0,2,0,0,0,0,0
+�. Flores,Peru,24,M,330,5,4,1,2,1,1,0,0,0,0
+W. Cartagena,Peru,23,M,6,1,0,1,0,3,0,0,0,0,0
+S. Pe�a,Peru,22,M,20,2,0,2,0,4,0,0,0,0,0
+R. Siucho,Peru,21,M,0,0,0,0,0,2,0,0,0,0,0
+P. Guerrero,Peru,34,A,155,2,2,0,1,0,2,0,0,0,0
+J. Farf�n,Peru,33,A,362,5,4,1,3,1,2,1,0,0,0
+R. Ruid�az,Peru,27,A,89,3,1,2,1,4,1,0,0,0,0
+A. Carrillo,Peru,27,A,411,5,5,0,3,0,2,1,0,0,0
+A. Polo,Peru,23,A,27,2,0,2,0,5,0,0,0,0,0
+L. da Silva,Peru,21,A,12,1,0,1,0,2,0,0,0,0,0
+K. Schmeichel,Dinamarca,31,G,360,4,4,0,0,0,0,0,0,0,0
+J. L�ssl,Dinamarca,29,G,0,0,0,0,0,4,0,0,0,0,0
+F. R�nnow,Dinamarca,25,G,0,0,0,0,0,4,0,0,0,0,0
+S. Kj�r,Dinamarca,29,D,307,4,4,0,2,0,0,0,0,0,0
+M. J�rgensen,Dinamarca,28,D,90,1,1,0,0,3,0,0,0,0,0
+H. Dalsgaard,Dinamarca,28,D,270,3,3,0,0,0,0,1,1,0,0
+J. Larsen,Dinamarca,27,D,337,4,4,0,1,0,0,0,0,0,0
+L. Nielsen,Dinamarca,30,D,0,0,0,0,0,1,0,0,0,0,0
+J. Knudsen,Dinamarca,25,D,90,1,1,0,0,3,0,0,0,0,0
+P. Ankersen,Dinamarca,27,D,0,0,0,0,0,2,0,0,0,0,0
+N. Boilesen,Dinamarca,26,D,116,2,1,1,0,1,0,0,0,0,0
+J. Vestergaard,Dinamarca,25,D,27,1,0,1,0,2,0,0,0,0,0
+R. Durmisi,Dinamarca,24,D,23,1,0,1,0,2,0,0,0,0,0
+A. Christensen,Dinamarca,22,D,180,2,2,0,0,0,0,0,0,0,0
+M. Krohn-Dehli,Dinamarca,35,M,60,2,1,1,1,1,0,0,0,0,0
+M. Jensen,Dinamarca,30,M,18,1,0,1,0,3,0,0,1,0,0
+W. Kvist,Dinamarca,33,M,217,3,3,0,2,1,0,0,0,0,0
+L. Sch�ne,Dinamarca,32,M,174,4,1,3,0,3,0,0,0,0,0
+T. Delaney,Dinamarca,26,M,314,4,4,0,2,0,0,1,0,0,0
+C. Eriksen,Dinamarca,26,M,218,3,3,0,3,0,1,1,0,0,0
+V. Fischer,Dinamarca,24,M,47,3,0,3,0,4,0,0,0,0,0
+L. Lerager,Dinamarca,24,M,53,2,0,2,0,4,0,0,0,0,0
+N. Bendtner,Dinamarca,30,A,64,2,1,1,1,1,0,0,0,0,0
+N. J�rgensen,Dinamarca,27,A,209,3,3,0,2,1,0,0,0,0,0
+M. Braithwaite,Dinamarca,27,A,132,3,0,3,0,4,0,0,0,0,0
+Y. Poulsen,Dinamarca,24,A,262,4,3,1,2,1,1,0,0,0,0
+A. Cornelius,Dinamarca,25,A,90,1,1,0,0,2,0,0,0,0,0
+P. Sisto,Dinamarca,23,A,241,4,4,0,4,0,1,0,0,0,0
+K. Dolberg,Dinamarca,20,A,61,2,0,2,0,2,0,0,0,0,0
+S. Romero,Argentina,31,G,22,1,1,0,1,1,0,0,0,0,0
+N. Guzm�n,Argentina,32,G,0,0,0,0,0,3,0,0,0,0,0
+F. Armani,Argentina,31,G,0,0,0,0,0,1,0,0,0,0,0
+W. Caballero,Argentina,36,G,248,3,2,1,0,1,0,0,0,0,0
+J. Mascherano,Argentina,34,D,146,2,2,0,1,1,0,0,0,0,0
+C. Ansaldi,Argentina,31,D,90,1,1,0,0,1,0,0,0,0,0
+G. Mercado,Argentina,31,D,29,2,0,2,0,3,0,0,0,0,0
+F. Fazio,Argentina,31,D,136,2,2,0,1,1,0,0,0,0,0
+N. Otamendi,Argentina,30,D,270,3,3,0,0,0,1,0,0,0,0
+M. Rojo,Argentina,28,D,134,2,1,1,0,2,0,0,1,0,0
+N. Tagliafico,Argentina,25,D,251,3,3,0,1,0,0,0,1,0,0
+Ramiro Funes Mori,Argentina,27,D,0,0,0,0,0,1,0,0,0,0,0
+F. Bustos,Argentina,22,D,151,2,2,0,2,0,0,0,0,0,0
+L. Biglia,Argentina,32,M,180,2,2,0,0,1,0,0,0,0,0
+P. P�rez,Argentina,32,M,28,1,0,1,0,2,0,0,0,0,0
+�. Di Mar�a,Argentina,30,M,123,2,2,0,2,0,0,0,0,0,0
+�. Banega,Argentina,29,M,103,3,1,2,1,2,1,1,0,0,0
+E. Salvio,Argentina,27,M,90,1,1,0,0,1,0,0,0,0,0
+M. Lanzini,Argentina,25,M,149,2,2,0,1,0,1,0,0,0,0
+L. Paredes,Argentina,23,M,64,1,1,0,1,1,0,0,0,0,0
+M. Meza,Argentina,25,M,121,2,1,1,0,1,0,0,1,0,0
+G. Lo Celso,Argentina,22,M,235,3,3,0,3,0,0,1,0,0,0
+L. Messi,Argentina,30,A,90,1,1,0,0,1,3,1,0,0,0
+S. Ag�ero,Argentina,30,A,31,1,0,1,0,1,1,0,0,0,0
+G. Higua�n,Argentina,30,A,208,3,3,0,2,0,0,1,0,0,0
+D. Perotti,Argentina,29,A,26,1,0,1,0,2,0,0,0,0,0
+M. Acu�a,Argentina,26,A,25,2,0,2,0,3,0,0,0,0,0
+P. Dybala,Argentina,24,A,0,0,0,0,0,1,0,0,0,0,0
+�. Correa,Argentina,23,A,0,0,0,0,0,2,0,0,0,0,0
+C. Pav�n,Argentina,22,A,79,3,0,3,0,3,0,1,1,0,0
+Lautaro Mart�nez,Argentina,20,A,31,1,0,1,0,2,0,0,0,0,0
+R. R�narsson,Islandia,23,G,90,1,1,0,0,0,0,0,0,0,
+A. Einarsson,Islandia,23,G,0,0,0,0,0,1,0,0,0,0,
+F. Schram,Islandia,23,G,0,0,0,0,0,1,0,0,0,0,
+J. Fj�luson,Islandia,29,D,90,1,1,0,0,0,0,0,0,0,
+H. Eyj�lfsson,Islandia,27,D,46,1,1,0,1,0,0,0,0,0,
+Haukur Hauksson,Islandia,26,D,0,0,0,0,0,1,0,0,0,0,
+O. �marsson,Islandia,23,D,44,1,0,1,0,1,0,0,0,0,
+V. Jonsson,Islandia,24,D,22,1,0,1,0,1,0,0,0,0,
+B. B��varsson,Islandia,23,D,0,0,0,0,0,1,0,0,0,0,
+O. Skulason,Islandia,35,M,46,1,1,0,1,0,0,0,0,0,
+A. Sm�rason,Islandia,29,M,90,1,1,0,0,0,1,0,0,0,
+A. Sigurdarson,Islandia,24,M,90,1,1,0,0,0,0,0,0,0,
+A. Traustason,Islandia,25,M,27,1,1,0,1,0,0,0,0,0,
+S. Fri�j�nsson,Islandia,22,M,68,1,1,0,1,0,0,0,0,0,
+F. Fridriksson,Islandia,19,M,90,1,1,0,0,0,0,0,0,0,
+T. Haraldsson,Islandia,21,M,14,1,0,1,0,1,0,0,0,0,
+M. Anderson,Islandia,19,M,0,0,0,0,0,1,0,0,0,0,
+Hilmar Halld�rsson,Islandia,26,A,44,1,0,1,0,1,0,0,0,0,
+A. Bjarnason,Islandia,27,A,46,1,1,0,1,0,0,0,0,0,
+Kristj�n Finnbogason,Islandia,23,A,76,1,1,0,1,0,0,0,0,0,
+Albert Gudmundsson,Islandia,21,A,63,1,0,1,0,1,3,0,0,0,
+O. Karlsson,Islandia,21,A,44,1,0,1,0,1,0,0,0,0,
+D. Suba�i?,Croacia,33,G,247,3,3,0,1,0,0,0,0,0,
+L. Kalini?,Croacia,28,G,113,2,1,1,0,3,0,0,0,0,
+D. Livakovi?,Croacia,23,G,0,0,0,0,0,3,0,0,0,0,
+V. ?orluka,Croacia,32,D,306,4,4,0,2,0,0,0,0,0,
+D. Vida,Croacia,29,D,360,4,4,0,0,0,0,0,0,0,
+I. Strini?,Croacia,30,D,180,2,2,0,0,2,0,0,0,0,
+D. Lovren,Croacia,28,D,136,2,2,0,1,0,0,0,0,0,
+J. Pivari?,Croacia,29,D,90,1,1,0,0,3,0,0,0,0,
+�. Vrsaljko,Croacia,26,D,212,3,3,0,2,1,0,1,0,0,
+Z. Ni�i?,Croacia,28,D,16,1,0,1,0,2,0,0,0,0,
+M. Mitrovi?,Croacia,24,D,0,0,0,0,0,1,0,0,0,0,
+T. Jedvaj,Croacia,22,D,102,3,0,3,0,4,0,0,0,0,
+D. ?aleta-Car,Croacia,21,D,38,1,0,1,0,2,0,0,0,0,
+L. Modri?,Croacia,32,M,238,3,3,0,1,0,0,0,0,0,
+I. Rakiti?,Croacia,30,M,314,4,4,0,3,0,1,1,0,0,
+I. Peri�i?,Croacia,29,M,257,3,3,0,1,0,1,1,0,0,
+M. Badelj,Croacia,29,M,152,3,3,0,3,1,0,0,0,0,
+M. Brozovi?,Croacia,25,M,114,3,1,2,1,2,0,1,0,0,
+M. Kova?i?,Croacia,24,M,181,4,1,3,0,3,0,1,0,0,
+M. Pa�ali?,Croacia,23,M,19,1,0,1,0,2,0,0,0,0,
+F. Bradari?,Croacia,26,M,52,2,0,2,0,4,0,0,0,0,
+M. Rog,Croacia,22,M,30,1,0,1,0,2,0,0,0,0,
+M. Mand�uki?,Croacia,32,A,117,2,2,0,2,1,0,0,0,0,
+N. Kalini?,Croacia,30,A,108,2,1,1,1,2,0,0,0,0,
+D. ?op,Croacia,28,A,14,1,0,1,0,2,0,0,0,0,
+A. Kramari?,Croacia,26,A,250,4,2,2,0,2,1,1,0,0,
+A. Rebi?,Croacia,24,A,209,4,3,1,3,1,0,0,0,0,
+M. Pjaca,Croacia,23,A,105,3,1,2,1,3,0,0,0,0,
+I. Ezenwa,Nigeria,29,G,0,0,0,0,0,5,0,0,0,0,0
+D. Akpeyi,Nigeria,31,G,0,0,0,0,0,3,0,0,0,0,0
+F. Uzoho,Nigeria,19,G,450,5,5,0,0,0,0,0,0,0,0
+E. Echiejile,Nigeria,30,D,67,2,1,1,1,4,0,0,1,0,0
+L. Balogun,Nigeria,29,D,276,4,4,0,3,1,0,0,0,0,0
+K. Omeruo,Nigeria,24,D,84,3,0,3,0,5,0,0,0,0,0
+W. Troost-Ekong,Nigeria,24,D,450,5,5,0,0,0,1,0,0,0,0
+B. Idowu,Nigeria,26,D,334,4,4,0,2,1,0,0,0,0,0
+O. Aina,Nigeria,21,D,49,2,0,2,0,4,0,0,1,0,0
+A. Shehu,Nigeria,25,D,184,4,3,1,3,2,0,0,0,0,0
+U. Agbo,Nigeria,22,D,0,0,0,0,0,3,0,0,0,0,0
+T. Ebuehi,Nigeria,22,D,266,5,2,3,1,3,0,0,0,0,0
+C. Awaziem,Nigeria,21,D,90,1,1,0,0,4,0,0,0,0,0
+S. Eze,Nigeria,24,D,0,0,0,0,0,3,0,0,0,0,0
+J. Obi Mikel,Nigeria,31,M,170,2,2,0,1,1,0,0,0,0,0
+V. Moses,Nigeria,27,M,278,4,4,0,3,0,1,0,0,0,0
+J. Ogu,Nigeria,30,M,155,4,1,3,0,4,0,0,1,0,0
+J. Obi,Nigeria,27,M,234,4,4,0,4,1,0,0,1,0,0
+O. Onazi,Nigeria,25,M,238,4,3,1,2,2,0,1,0,0,0
+M. Agu,Nigeria,25,M,49,2,0,2,0,3,0,0,0,0,0
+A. Iwobi,Nigeria,22,M,371,5,4,1,2,1,1,0,0,0,0
+W. Ndidi,Nigeria,21,M,265,3,3,0,1,1,0,0,0,0,0
+O. Etebo,Nigeria,22,M,134,2,1,1,0,2,0,0,0,0,0
+O. Ighalo,Nigeria,29,A,279,4,3,1,3,2,0,0,0,0,0
+A. Musa,Nigeria,25,A,176,5,1,4,0,4,0,0,1,0,0
+S. Nwankwo,Nigeria,26,A,111,2,1,1,0,2,0,0,0,0,0
+M. Simon,Nigeria,22,A,14,2,0,2,0,2,0,0,0,0,0
+K. Iheanacho,Nigeria,21,A,151,4,2,2,2,2,0,0,0,0,0
+O. Ajayi,Nigeria,22,A,2,1,0,1,0,1,0,0,0,0,0
+G. Okechukwu,Nigeria,22,A,0,0,0,0,0,1,0,0,0,0,0
+J. Lokosa,Nigeria,24,A,73,1,1,0,1,0,0,0,0,0,0
+K. Navas,Costa Rica,31,G,395,5,5,0,1,0,0,0,0,0,0
+P. Pemberton,Costa Rica,36,G,0,0,0,0,0,3,0,0,0,0,0
+L. Moreira,Costa Rica,28,G,55,1,0,1,0,5,0,0,0,0,0
+K. Brice�o,Costa Rica,26,G,0,0,0,0,0,2,0,0,0,0,0
+B. Oviedo,Costa Rica,28,D,279,5,4,1,3,1,0,1,0,0,0
+�. Duarte,Costa Rica,29,D,316,4,4,0,1,1,0,0,1,0,0
+C. Gamboa,Costa Rica,28,D,362,5,5,0,5,0,0,0,1,0,0
+G. Gonz�lez,Costa Rica,30,D,343,4,4,0,1,1,0,1,2,0,0
+K. Waston,Costa Rica,30,D,197,3,2,1,0,3,0,0,0,0,0
+J. Acosta,Costa Rica,34,D,360,4,4,0,0,1,0,0,0,0,0
+K. Guti�rrez,Costa Rica,29,D,0,0,0,0,0,2,0,0,0,0,0
+R. Matarrita,Costa Rica,23,D,50,2,0,2,0,3,0,0,1,0,0
+F. Calvo,Costa Rica,25,D,280,5,2,3,0,3,1,0,1,0,0
+I. Smith,Costa Rica,20,D,83,4,0,4,0,5,0,0,0,0,0
+R. Azofeifa,Costa Rica,33,M,14,1,0,1,0,3,0,0,0,0,0
+C. Borges,Costa Rica,30,M,410,5,5,0,2,0,0,0,1,0,0
+R. Wallace,Costa Rica,29,M,26,1,0,1,0,5,0,0,0,0,0
+C. Bola�os,Costa Rica,34,M,91,2,1,1,1,1,0,0,0,0,0
+D. Guzm�n,Costa Rica,28,M,243,4,3,1,2,1,0,0,1,0,0
+J. Venegas,Costa Rica,29,M,175,3,2,1,2,1,1,0,0,0,0
+Y. Tejeda,Costa Rica,26,M,235,5,2,3,1,3,0,0,0,0,0
+U. Segura,Costa Rica,24,M,33,1,0,1,0,2,0,0,0,0,0
+W. Azofeifa,Costa Rica,24,M,26,1,0,1,0,2,0,0,0,0,0
+B. Ruiz,Costa Rica,32,A,241,3,3,0,2,2,1,0,0,0,0
+Y. Ruiz,Costa Rica,31,A,26,2,0,2,0,2,0,0,0,0,0
+M. Ure�a,Costa Rica,28,A,277,4,4,0,3,1,1,0,0,0,0
+J. Campbell,Costa Rica,25,A,204,3,2,1,0,1,1,1,0,0,0
+D. Colindres,Costa Rica,33,A,211,3,3,0,2,2,0,1,0,0,0
+J. Mitchell,Costa Rica,28,A,18,1,0,1,0,2,0,0,0,0,0
+D. Ram�rez,Costa Rica,25,A,0,0,0,0,0,2,0,0,0,0,0
+V. Stojkovi?,Serbia,34,G,260,3,3,0,1,1,0,0,0,0,0
+M. Dmitrovi?,Serbia,26,G,90,1,1,0,0,3,0,0,0,0,0
+P. Rajkovi?,Serbia,22,G,10,1,0,1,0,4,0,0,0,0,0
+D. Basta,Serbia,33,D,90,1,1,0,0,1,0,0,0,0,0
+D. To�i?,Serbia,33,D,247,3,3,0,1,1,0,0,1,0,0
+B. Ivanovi?,Serbia,34,D,197,3,2,1,0,1,1,0,0,0,0
+A. Kolarov,Serbia,32,D,338,4,4,0,2,0,0,0,0,0,0
+A. Rukavina,Serbia,34,D,203,3,2,1,0,2,0,0,1,0,0
+I. Obradovi?,Serbia,29,D,12,1,0,1,0,2,0,0,0,0,0
+N. Maksimovi?,Serbia,26,D,73,1,1,0,1,1,0,0,1,0,0
+M. Rodi?,Serbia,27,D,10,1,0,1,0,2,0,0,0,0,0
+M. Nastasi?,Serbia,25,D,90,1,1,0,0,1,0,0,0,0,0
+U. Spaji?,Serbia,25,D,0,0,0,0,0,2,0,0,0,0,0
+M. Veljkovic,Serbia,22,D,0,0,0,0,0,4,0,0,0,0,0
+N. Milenkovi?,Serbia,20,D,180,2,2,0,0,0,0,0,1,0,0
+N. Mati?,Serbia,29,M,222,4,3,1,3,1,0,0,0,0,0
+D. Tadi?,Serbia,29,M,270,4,3,1,3,1,1,1,0,0,0
+L. Milivojevi?,Serbia,27,M,224,4,2,2,1,2,0,1,0,0,0
+F. Kosti?,Serbia,25,M,294,4,3,1,1,1,0,1,0,0,0
+A. �ivkovi?,Serbia,21,M,121,3,2,1,2,2,0,0,0,0,0
+M. Ga?inovi?,Serbia,23,M,22,2,0,2,0,2,0,0,0,0,0
+M. Gruji?,Serbia,22,M,165,4,1,3,0,3,0,0,0,0,0
+S. Milinkovi?-Savi?,Serbia,23,M,107,2,1,1,1,1,0,0,0,0,0
+N. Maksimovi?,Serbia,23,M,0,1,0,1,0,2,0,0,0,0,0
+A. Prijovi?,Serbia,28,A,28,2,0,2,0,4,0,0,0,0,0
+A. Ljaji?,Serbia,26,A,298,4,4,0,3,0,1,3,0,0,0
+A. Mitrovi?,Serbia,23,A,334,4,4,0,2,0,5,1,1,0,0
+N. Radonji?,Serbia,22,A,69,2,1,1,1,1,0,0,0,0,0
+L. Jovi?,Serbia,20,A,6,1,0,1,0,2,0,0,0,0,0
+C�ssio,Brasil,31,G,0,0,0,0,0,2,0,0,0,0,0
+Neto,Brasil,28,G,0,0,0,0,0,1,0,0,0,0,0
+Alisson,Brasil,25,G,360,4,4,0,0,0,0,0,0,0,0
+Ederson Moraes,Brasil,24,G,0,0,0,0,0,4,0,0,0,0,0
+Jo�o Miranda,Brasil,33,D,331,4,4,0,2,0,1,0,0,0,0
+Dani Alves,Brasil,35,D,173,2,2,0,1,0,0,0,0,0,0
+Filipe Luis,Brasil,32,D,53,2,0,2,0,2,0,0,0,0,0
+Thiago Silva,Brasil,33,D,330,4,4,0,1,0,0,0,0,0,0
+Pedro Geromel,Brasil,32,D,4,1,0,1,0,3,0,0,0,0,0
+F�gner,Brasil,29,D,7,1,0,1,0,4,0,0,0,0,0
+Marcelo,Brasil,30,D,307,4,4,0,2,0,0,0,0,0,0
+Danilo,Brasil,26,D,180,2,2,0,0,0,0,0,0,0,0
+Ismaily,Brasil,28,D,0,0,0,0,0,2,0,0,0,0,0
+Marquinhos,Brasil,24,D,55,2,0,2,0,4,0,0,0,0,0
+Rodrigo Caio,Brasil,24,D,0,0,0,0,0,1,0,0,0,0,0
+Renato Augusto,Brasil,30,M,19,1,0,1,0,2,0,0,0,0,0
+Fernandinho,Brasil,33,M,165,3,2,1,1,2,0,0,1,0,0
+Paulinho,Brasil,29,M,341,4,4,0,1,0,1,0,0,0,0
+Taison,Brasil,30,M,33,3,0,3,0,4,0,0,0,0,0
+Douglas Costa,Brasil,27,M,113,3,1,2,0,3,0,0,0,0,0
+Philippe Coutinho,Brasil,26,M,310,4,4,0,4,0,2,1,0,0,0
+Casemiro,Brasil,26,M,331,4,4,0,1,0,0,1,0,0,0
+Fred,Brasil,25,M,19,2,0,2,0,3,0,0,0,0,0
+Talisca,Brasil,24,M,0,0,0,0,0,1,0,0,0,0,0
+Willian,Brasil,29,A,341,4,4,0,2,0,0,3,0,0,0
+Willian Jos�,Brasil,26,A,0,0,0,0,0,2,0,0,0,0,0
+Neymar,Brasil,26,A,128,2,1,1,1,1,2,0,1,0,0
+Roberto Firmino,Brasil,26,A,78,3,0,3,0,4,1,1,0,0,0
+Gabriel Jesus,Brasil,21,A,282,4,4,0,3,0,2,0,0,0,0
+Y. Sommer,Suiza,29,G,180,2,2,0,0,2,0,0,0,0,0
+R. B�rki,Suiza,27,G,180,2,2,0,0,2,0,0,0,0,0
+M. Hitz,Suiza,30,G,0,0,0,0,0,1,0,0,0,0,0
+Y. Mvogo,Suiza,24,G,0,0,0,0,0,2,0,0,0,0,0
+J. Djourou,Suiza,31,D,134,2,1,1,0,3,0,0,0,0,0
+S. Lichtsteiner,Suiza,34,D,235,4,3,1,2,1,0,0,0,0,0
+M. Lang,Suiza,27,D,125,3,1,2,1,3,0,0,0,0,0
+R. Rodr�guez,Suiza,25,D,231,3,3,0,3,1,2,0,0,0,0
+F. Sch�r,Suiza,26,D,247,4,3,1,1,1,0,0,0,0,0
+F. Moubandje,Suiza,27,D,119,3,1,2,0,3,0,1,0,0,0
+N. Elvedi,Suiza,21,D,134,2,1,1,0,3,0,0,0,0,0
+M. Akanji,Suiza,22,D,226,3,3,0,1,1,0,0,0,0,0
+V. Behrami,Suiza,33,M,214,3,3,0,2,0,0,0,1,0,0
+B. D�emaili,Suiza,32,M,208,4,3,1,2,1,2,0,0,0,0
+G. Fernandes,Suiza,31,M,114,3,1,2,1,3,0,0,0,0,0
+F. Frei,Suiza,29,M,42,2,0,2,0,2,1,0,0,0,0
+S. Zuber,Suiza,26,M,235,4,2,2,0,2,1,1,1,0,0
+X. Shaqiri,Suiza,26,M,173,2,2,0,1,0,0,0,0,0,0
+G. Xhaka,Suiza,25,M,249,3,3,0,1,0,1,0,0,0,0
+R. Freuler,Suiza,26,M,169,3,2,1,2,2,0,0,0,0,0
+E. Fernandes,Suiza,22,M,0,0,0,0,0,1,0,0,0,0,0
+D. Zakaria,Suiza,21,M,90,1,1,0,0,1,0,0,0,0,0
+H. Seferovi?,Suiza,26,A,164,4,2,2,2,2,1,1,0,0,0
+M. Gavranovi?,Suiza,28,A,152,3,2,1,2,2,1,1,0,0,0
+J. Drmic,Suiza,25,A,95,3,0,3,0,4,1,1,0,0,0
+B. Embolo,Suiza,21,A,227,4,3,1,3,1,1,0,0,0,0
+D. Oberlin,Suiza,20,A,17,1,0,1,0,1,0,0,0,0,0
+M. Neuer,Alemania,32,G,136,2,2,0,1,0,0,0,0,0,0
+K. Trapp,Alemania,27,G,90,1,1,0,0,2,0,0,0,0,0
+M. ter Stegen,Alemania,26,G,134,2,1,1,0,3,0,0,0,0,0
+B. Leno,Alemania,26,G,0,0,0,0,0,3,0,0,0,0,0
+J. Boateng,Alemania,29,D,204,3,3,0,2,0,0,0,0,0,0
+M. Hummels,Alemania,29,D,180,2,2,0,0,1,0,0,0,0,0
+M. Plattenhardt,Alemania,26,D,90,1,1,0,0,3,0,0,0,0,0
+A. R�diger,Alemania,25,D,180,2,2,0,0,2,0,0,0,0,0
+N. S�le,Alemania,22,D,156,3,1,2,0,3,0,0,0,0,0
+M. Ginter,Alemania,24,D,9,1,0,1,0,4,0,0,0,0,0
+J. Kimmich,Alemania,23,D,351,4,4,0,1,0,0,0,0,0,0
+J. Tah,Alemania,22,D,0,0,0,0,0,1,0,0,0,0,0
+M. �zil,Alemania,29,M,166,2,2,0,1,1,1,0,0,0,0
+S. Khedira,Alemania,31,M,189,3,3,0,2,1,0,1,0,0,0
+T. Kroos,Alemania,28,M,270,3,3,0,0,0,0,0,0,0,0
+S. Rudy,Alemania,28,M,44,1,0,1,0,3,0,0,0,0,0
+?. G�ndo?an,Alemania,27,M,207,4,2,2,2,2,0,0,0,0,0
+J. Hector,Alemania,28,M,270,3,3,0,0,1,0,0,0,0,0
+J. Draxler,Alemania,24,M,262,4,3,1,1,1,0,0,0,0,0
+L. Goretzka,Alemania,23,M,104,3,1,2,1,3,0,0,0,0,0
+M. G�mez,Alemania,32,A,110,4,1,3,1,3,0,0,0,0,0
+N. Petersen,Alemania,29,A,76,1,1,0,1,0,0,0,0,0,0
+T. M�ller,Alemania,28,A,155,2,2,0,2,0,1,0,0,0,0
+L. Stindl,Alemania,29,A,29,1,0,1,0,2,0,0,0,0,0
+M. Reus,Alemania,29,A,80,2,1,1,1,1,0,1,0,0,0
+S. Wagner,Alemania,30,A,28,1,0,1,0,2,0,0,0,0,0
+J. Brandt,Alemania,22,A,112,3,1,2,1,3,0,0,0,0,0
+T. Werner,Alemania,22,A,178,4,2,2,2,2,1,0,0,0,0
+L. San�,Alemania,22,A,150,3,2,1,2,1,0,0,0,0,0
+Jos� Corona,Mexico,37,G,180,2,2,0,0,3,0,0,0,0,0
+G. Ochoa,Mexico,32,G,270,3,3,0,0,2,0,0,0,0,0
+A. Talavera,Mexico,35,G,0,0,0,0,0,4,0,0,0,0,0
+Jonathan Orozco,Mexico,32,G,0,0,0,0,0,1,0,0,0,0,0
+R. Cota,Mexico,30,G,90,1,1,0,0,0,0,0,0,0,0
+G. Lajud,Mexico,24,G,0,0,0,0,0,1,0,0,0,0,0
+R. M�rquez,Mexico,39,D,88,2,0,2,0,2,0,0,0,0,0
+H. Ayala,Mexico,31,D,450,5,5,0,0,1,1,0,0,0,0
+H. Moreno,Mexico,30,D,195,3,3,0,2,0,0,0,0,0,0
+O. Alan�s,Mexico,29,D,92,2,2,0,2,2,0,0,1,0,0
+M. Lay�n,Mexico,29,D,254,4,2,2,0,2,2,0,2,0,0
+D. Reyes,Mexico,25,D,120,2,1,1,1,1,0,0,0,0,0
+N. Ara�jo,Mexico,26,D,150,3,2,1,1,1,0,0,0,0,0
+C. Salcedo,Mexico,24,D,292,5,3,2,2,2,0,0,0,0,0
+C. Montes,Mexico,21,D,0,0,0,0,0,1,0,0,0,0,0
+E. �lvarez,Mexico,20,D,246,4,2,2,0,4,0,0,0,0,0
+A. Guardado,Mexico,31,M,166,3,3,0,3,0,0,0,0,0,0
+J. Molina,Mexico,30,M,167,4,2,2,2,2,0,0,0,0,0
+El�as Hern�ndez,Mexico,30,M,57,1,1,0,1,0,0,0,0,0,0
+M. Fabi�n,Mexico,28,M,168,4,1,3,1,4,1,0,0,0,0
+J. Aquino,Mexico,28,M,161,3,1,2,0,3,0,0,0,0,0
+L. Rodr�guez,Mexico,27,M,90,1,1,0,0,0,0,0,0,0,0
+Jorge Hern�ndez,Mexico,29,M,134,2,1,1,0,2,0,0,0,0,0
+H. Herrera,Mexico,28,M,165,3,3,0,3,1,0,0,0,0,0
+J. dos Santos,Mexico,28,M,166,4,1,3,1,3,0,1,0,0,0
+R. Pizarro,Mexico,24,M,77,3,1,2,1,2,0,1,0,0,0
+O. Govea,Mexico,22,M,66,2,1,1,1,1,0,0,0,0,0
+O. Pineda,Mexico,22,M,46,1,1,0,1,0,0,0,0,0,0
+�. Guti�rrez,Mexico,23,M,74,1,1,0,1,2,0,0,1,0,0
+J. Gallardo,Mexico,23,M,430,5,5,0,1,1,0,0,0,0,0
+J. G�nzalez,Mexico,19,M,33,1,0,1,0,3,0,0,0,0,0
+C. Vela,Mexico,29,A,274,4,3,1,1,3,0,1,0,0,0
+O. Peralta,Mexico,34,A,168,4,1,3,1,4,0,0,0,0,0
+G. dos Santos,Mexico,29,A,181,4,3,1,3,1,1,0,0,0,0
+Javier Hern�ndez,Mexico,30,A,179,3,2,1,1,3,0,0,0,0,0
+Jes�s Corona,Mexico,25,A,222,4,3,1,2,2,0,0,0,0,0
+R. Jim�nez,Mexico,27,A,132,3,2,1,2,3,0,1,0,0,0
+J. Damm,Mexico,25,A,44,1,0,1,0,2,0,0,0,0,0
+H. Mart�n,Mexico,25,A,73,1,1,0,1,0,0,0,0,0,0
+H. Lozano,Mexico,22,A,240,4,2,2,1,3,0,1,1,0,0
+K. Nordfeldt,Suecia,28,G,90,1,1,0,0,3,0,0,0,0,0
+K. Johnsson,Suecia,28,G,90,1,1,0,0,3,0,0,0,0,0
+R. Olsen,Suecia,28,G,180,2,2,0,0,0,0,0,0,0,0
+J. Rinne,Suecia,24,G,0,0,0,0,0,2,0,0,0,0,0
+Martin Olsson,Suecia,30,D,180,2,2,0,0,2,0,0,1,0,0
+A. Granqvist,Suecia,33,D,226,3,3,0,1,1,0,0,0,0,0
+M. Lustig,Suecia,31,D,167,3,2,1,2,2,0,0,1,0,0
+N. Hult,Suecia,28,D,90,1,1,0,0,1,0,0,0,0,0
+P. Jansson,Suecia,27,D,134,2,1,1,0,3,0,0,0,0,0
+J. Larsson,Suecia,28,D,99,2,1,1,0,1,0,0,0,0,0
+V. Lindel�f,Suecia,23,D,270,3,3,0,0,1,0,0,0,0,0
+L. Augustinsson,Suecia,24,D,90,1,1,0,0,1,0,0,0,0,0
+E. Krafth,Suecia,23,D,94,2,1,1,1,1,0,0,0,0,0
+F. Helander,Suecia,25,D,90,1,1,0,0,3,0,0,0,0,0
+G. Svensson,Suecia,31,M,134,3,1,2,0,3,0,0,0,0,0
+S. Larsson,Suecia,33,M,179,4,2,2,2,2,0,0,0,0,0
+A. Ekdal,Suecia,28,M,128,2,2,0,2,0,0,0,0,0,0
+J. Durmaz,Suecia,29,M,166,2,2,0,2,2,0,0,1,0,0
+E. Forsberg,Suecia,26,M,254,3,3,0,2,1,0,0,0,0,0
+O. Hiljemark,Suecia,25,M,199,4,2,2,0,2,0,0,0,0,0
+V. Claesson,Suecia,26,M,187,3,2,1,0,2,0,1,0,0,0
+M. Rohd�n,Suecia,27,M,30,2,0,2,0,2,0,0,0,0,0
+A. Fransson,Suecia,24,M,87,1,1,0,1,1,0,0,0,0,0
+K. Sema,Suecia,24,M,101,2,1,1,0,2,0,0,0,0,0
+M. Berg,Suecia,31,A,248,4,3,1,1,1,0,0,0,0,0
+O. Toivonen,Suecia,31,A,250,4,3,1,2,1,1,0,0,0,0
+J. Guidetti,Suecia,26,A,87,1,1,0,1,3,0,0,0,0,0
+I. Thelin,Suecia,25,A,110,3,1,2,1,2,0,0,0,0,0
+Kim Seung-Gyu,Corea del Sur,27,G,496,6,6,0,1,3,0,0,0,0,0
+Kim Jin-Hyeon,Corea del Sur,30,G,44,1,0,1,0,6,0,0,0,0,0
+Cho Hyun-Woo,Corea del Sur,26,G,270,3,3,0,0,6,0,0,0,0,0
+Kim Dong-Jun,Corea del Sur,23,G,0,0,0,0,0,3,0,0,0,0,0
+Choi Chul-Soon,Corea del Sur,31,D,134,2,1,1,0,4,0,1,1,0,0
+Park Joo-Ho,Corea del Sur,31,D,253,4,3,1,1,3,0,2,0,0,0
+Kim Young-Gwon,Corea del Sur,28,D,316,4,4,0,1,3,0,0,0,0,0
+Hong Jeong-Ho,Corea del Sur,28,D,46,1,1,0,1,1,0,0,0,0,0
+Kim Jin-Su,Corea del Sur,26,D,192,3,3,0,2,1,0,0,1,0,0
+Yun Young-Sun,Corea del Sur,29,D,221,4,2,2,2,7,0,0,0,0,0
+Hong Chul,Corea del Sur,27,D,169,3,2,1,1,5,0,1,0,0,0
+Kim Tae-Hwan,Corea del Sur,28,D,90,2,1,1,0,2,0,0,0,0,0
+Lee Yong,Corea del Sur,31,D,419,6,5,1,1,1,0,0,0,0,0
+Oh Ban-Suk,Corea del Sur,30,D,65,2,1,1,1,3,0,0,0,0,0
+Jang Hyun-Soo,Corea del Sur,26,D,475,6,5,1,1,2,0,0,0,0,0
+Kwon Kyung-Won,Corea del Sur,26,D,44,1,0,1,0,2,0,0,0,0,0
+Jung Seung-Hyun,Corea del Sur,24,D,183,4,2,2,1,5,0,0,0,0,0
+Kim Min-Jae,Corea del Sur,21,D,315,5,4,1,1,1,0,0,0,0,0
+Yeom Ki-Hun,Corea del Sur,35,M,15,1,0,1,0,2,0,0,0,0,0
+Ki Sung-Yeung,Corea del Sur,29,M,395,5,5,0,4,0,0,0,0,0,0
+Lee Chung-Yong,Corea del Sur,29,M,56,1,1,0,1,1,0,0,0,0,0
+Ko Yo-Han,Corea del Sur,30,M,213,3,3,0,3,4,0,0,0,0,0
+Kim Seong-Jun,Corea del Sur,30,M,132,3,1,2,1,2,0,0,0,0,0
+Kim Min-Woo,Corea del Sur,28,M,278,5,2,3,0,4,0,0,0,0,0
+Koo Ja-Cheol,Corea del Sur,29,M,184,3,2,1,1,4,0,0,0,0,0
+Lee Seung-Ki,Corea del Sur,30,M,144,3,2,1,2,1,0,1,0,0,0
+Jung Woo-Young,Corea del Sur,28,M,533,7,6,1,2,3,0,1,1,0,0
+Moon Seon-Min,Corea del Sur,26,M,90,3,1,2,1,3,1,0,0,0,0
+Ju Se-Jong,Corea del Sur,27,M,105,2,1,1,0,3,0,0,0,0,0
+Lee Chang-Min,Corea del Sur,24,M,96,4,1,3,1,3,1,0,0,0,0
+Son Joon-Ho,Corea del Sur,26,M,71,3,1,2,1,2,0,0,0,0,0
+Lee Jae-Sung II,Corea del Sur,25,M,591,8,6,2,2,2,1,0,0,0,0
+Lee Chan-Dong,Corea del Sur,25,M,180,2,2,0,1,1,0,0,1,0,0
+Lee Keun-Ho,Corea del Sur,33,A,190,3,2,1,2,3,0,0,0,0,0
+Kim Shin-Wook,Corea del Sur,30,A,527,9,5,4,1,4,4,0,0,0,0
+Son Heung-Min,Corea del Sur,25,A,453,6,5,1,2,1,1,1,0,0,0
+Jin Sung-Wook,Corea del Sur,24,A,72,2,1,1,1,2,0,0,0,0,0
+Kim Seung-Dae,Corea del Sur,27,A,116,3,1,2,1,2,0,0,0,0,0
+Kwon Chang-Hoon,Corea del Sur,23,A,152,2,2,0,1,0,1,0,0,0,0
+Hwang Hee-Chan,Corea del Sur,22,A,340,5,3,2,1,3,1,2,0,0,0
+Lee Seung-Woo,Corea del Sur,20,A,245,4,3,1,2,1,0,1,0,0,0
+S. Mignolet,Belgica,30,G,90,1,1,0,0,2,0,0,0,0,0
+T. Courtois,Belgica,26,G,270,3,3,0,0,0,0,0,0,0,0
+K. Casteels,Belgica,25,G,0,0,0,0,0,4,0,0,0,0,0
+M. Sels,Belgica,26,G,0,0,0,0,0,2,0,0,0,0,0
+V. Kompany,Belgica,32,D,101,2,2,0,2,0,0,0,0,0,0
+T. Vermaelen,Belgica,32,D,44,1,0,1,0,1,0,0,0,0,0
+J. Vertonghen,Belgica,31,D,351,4,4,0,1,0,0,0,0,0,0
+L. Ciman,Belgica,32,D,90,1,1,0,0,3,0,0,0,0,0
+T. Alderweireld,Belgica,29,D,360,4,4,0,0,0,0,0,0,0,0
+T. Meunier,Belgica,26,D,296,4,4,0,2,0,0,0,0,0,0
+D. Boyata,Belgica,27,D,110,3,1,2,1,3,0,0,0,0,0
+J. Lukaku,Belgica,23,D,0,0,0,0,0,1,0,0,0,0,0
+M. Demb�l�,Belgica,30,M,72,3,1,2,1,3,0,0,0,0,0
+M. Fellaini,Belgica,30,M,88,2,0,2,0,4,1,0,0,0,0
+A. Witsel,Belgica,29,M,226,3,3,0,1,0,0,0,0,0,0
+R. Nainggolan,Belgica,30,M,31,1,0,1,0,1,0,0,0,0,0
+N. Chadli,Belgica,28,M,132,3,0,3,0,3,0,1,0,0,0
+K. De Bruyne,Belgica,26,M,335,4,4,0,2,0,1,2,0,0,0
+T. Hazard,Belgica,25,M,55,3,0,3,0,4,0,0,0,0,0
+Y. Carrasco,Belgica,24,M,272,4,4,0,2,0,0,1,0,0,0
+L. Dendoncker,Belgica,23,M,24,1,0,1,0,3,0,0,0,0,0
+A. Januzaj,Belgica,23,M,88,2,0,2,0,3,0,0,0,0,0
+Y. Tielemans,Belgica,21,M,19,1,0,1,0,4,0,0,0,0,0
+K. Mirallas,Belgica,30,A,11,1,0,1,0,1,0,0,0,0,0
+E. Hazard,Belgica,27,A,255,4,4,0,4,0,1,2,0,0,0
+D. Mertens,Belgica,31,A,203,4,4,0,4,0,1,1,0,0,0
+C. Benteke,Belgica,27,A,44,1,0,1,0,1,0,0,0,0,0
+R. Lukaku,Belgica,25,A,236,4,4,0,4,0,5,2,0,0,0
+A. Limbombe,Belgica,23,A,44,1,0,1,0,1,0,0,0,0,0
+M. Batshuayi,Belgica,24,A,113,3,0,3,0,4,2,1,0,0,0
+D. Origi,Belgica,23,A,0,0,0,0,0,1,0,0,0,0,0
+J. Penedo,Panama,36,G,270,3,3,0,0,0,0,0,0,0,
+J. Calder�n,Panama,32,G,180,2,2,0,0,3,0,0,0,0,
+A. Rodr�guez,Panama,27,G,0,0,0,0,0,5,0,0,0,0,
+F. Baloy,Panama,37,D,166,2,2,0,1,2,0,1,0,0,
+R. Torres,Panama,32,D,162,3,2,1,1,2,0,0,0,0,
+A. Machado,Panama,33,D,316,4,4,0,1,0,0,0,0,0,
+E. Davis,Panama,27,D,180,2,2,0,0,1,0,0,0,0,
+H. Cummings,Panama,26,D,122,2,1,1,0,3,0,0,0,0,
+L. Ovalle,Panama,29,D,180,2,2,0,0,2,0,0,0,0,
+S. Ortega,Panama,27,D,90,1,1,0,0,0,0,0,0,0,
+R. Peralta,Panama,24,D,90,1,1,0,0,0,0,0,0,0,
+F. Escobar,Panama,23,D,270,3,3,0,0,0,0,0,0,0,
+F. Palacios,Panama,27,D,90,1,1,0,0,0,0,0,0,0,
+C. Hormechea,Panama,22,D,90,1,1,0,0,0,0,0,0,0,
+M. Murillo,Panama,22,D,180,3,2,1,1,2,0,1,0,0,
+R. Avila,Panama,21,D,90,2,1,1,1,3,0,0,0,0,
+G. G�mez,Panama,34,M,241,4,3,1,2,1,0,0,0,0,
+A. Cooper,Panama,30,M,206,4,2,2,1,2,0,1,0,0,
+A. Quintero,Panama,30,M,152,3,1,2,1,2,0,1,0,0,
+A. Godoy,Panama,28,M,316,4,4,0,1,0,0,1,0,0,
+R. Botello,Panama,26,M,0,0,0,0,0,1,0,0,0,0,
+M. Camargo,Panama,25,M,78,2,1,1,1,2,0,0,0,0,
+E. B�rcenas,Panama,24,M,269,4,3,1,2,1,0,1,0,0,
+J. N��ez,Panama,25,M,90,1,1,0,0,0,1,0,0,0,
+L. Heraldez,Panama,25,M,46,1,1,0,1,0,0,0,0,0,
+O. Villareal,Panama,23,M,0,0,0,0,0,1,0,0,0,0,
+V. Pimentel,Panama,27,M,209,4,2,2,1,3,0,0,0,0,
+A. Carrasquilla,Panama,19,M,0,0,0,0,0,1,0,0,0,0,
+Jos� Rodriguez,Panama,19,M,106,2,2,0,2,0,0,0,0,0,
+L. Tejada,Panama,36,A,46,1,1,0,1,2,0,0,0,0,
+B. P�rez,Panama,37,A,168,3,2,1,1,1,0,0,0,1,
+G. Torres,Panama,29,A,90,2,1,1,1,3,0,0,0,0,
+R. Nurse,Panama,34,A,44,1,0,1,0,3,0,0,0,0,
+O. Browne,Panama,24,A,58,1,1,0,1,0,0,0,0,0,
+A. Arroyo,Panama,24,A,13,1,0,1,0,4,0,0,0,0,
+I. D�az,Panama,21,A,62,2,0,2,0,2,0,0,0,0,
+A. Palacios,Panama,23,A,44,1,0,1,0,1,0,0,0,0,
+C. Small,Panama,23,A,90,1,1,0,0,0,0,0,0,0,
+J. Gonz�lez,Panama,21,A,32,1,0,1,0,1,0,0,0,0,
+R. Dinolis,Panama,23,A,0,0,0,0,0,1,0,0,0,0,
+J. Fajardo,Panama,24,A,90,1,1,0,0,0,0,0,0,0,
+A. Mathlouthi,Tunez,33,G,90,1,1,0,0,4,0,0,0,0,0
+F. Ben Mustapha,Tunez,28,G,90,1,1,0,0,4,0,0,0,0,0
+M. Ben Cherifia,Tunez,26,G,0,0,0,0,0,2,0,0,0,0,0
+M. Hassen,Tunez,23,G,270,3,3,0,0,2,0,0,0,0,0
+Y. Benalouane,Tunez,31,D,192,4,2,2,0,3,0,0,0,0,0
+K. Chemmam,Tunez,30,D,0,0,0,0,0,2,0,0,0,0,0
+S. Ben Youssef,Tunez,29,D,270,3,3,0,0,2,0,0,0,0,0
+A. Ma�loul,Tunez,28,D,270,5,4,1,4,1,0,1,0,0,0
+O. Haddadi,Tunez,26,D,180,5,1,4,1,4,0,0,0,0,0
+B. Mohsni,Tunez,30,D,0,0,0,0,0,1,0,0,0,0,0
+R. Bedoui,Tunez,28,D,0,0,0,0,0,4,0,0,0,0,0
+H. Nagguez,Tunez,25,D,104,2,1,1,0,4,0,0,0,0,0
+D. Bronn,Tunez,22,D,302,4,4,0,3,0,0,0,1,0,0
+K. Aouadhi,Tunez,32,M,0,0,0,0,0,2,0,0,0,0,0
+M. Larbi,Tunez,30,M,0,0,0,0,0,2,0,0,0,0,0
+N. Sliti,Tunez,25,M,355,5,5,0,5,0,0,0,0,0,0
+F. Sassi,Tunez,26,M,450,5,5,0,0,0,1,0,1,0,0
+A. Marzouki,Tunez,28,M,0,0,0,0,0,2,0,0,0,0,0
+E. Skhiri,Tunez,23,M,430,5,5,0,1,0,0,0,0,0,0
+S. Khaoui,Tunez,23,M,266,5,5,0,5,0,0,0,1,0,0
+A. Khalil,Tunez,23,M,44,1,0,1,0,5,0,0,0,0,0
+Y. Meriah,Tunez,24,M,450,5,5,0,0,0,0,0,0,0,0
+M. Ben Amor,Tunez,26,M,111,3,1,2,1,2,0,0,0,0,0
+G. Chalali,Tunez,24,M,31,2,0,2,0,3,0,0,0,0,0
+B. Srarfi,Tunez,20,M,58,5,0,5,0,5,0,1,2,0,0
+S. Khalifa,Tunez,31,A,103,3,1,2,1,2,0,0,0,0,0
+Y. Msakni,Tunez,27,A,0,0,0,0,0,2,0,0,0,0,0
+A. Aka�chi,Tunez,29,A,3,1,0,1,0,1,0,0,0,0,0
+W. Khazri,Tunez,27,A,156,2,2,0,2,1,1,0,2,0,0
+A. Badri,Tunez,27,A,384,5,4,1,3,1,2,0,0,0,0
+Y. Khenissi,Tunez,26,A,52,2,0,2,0,2,0,0,0,0,0
+F. Ben Youssef,Tunez,26,A,284,5,2,3,2,3,1,0,0,0,0
+G. Ayadi,Tunez,21,A,5,1,0,1,0,2,0,0,0,0,0
+J. Hart,Inglaterra,31,G,0,0,0,0,0,2,0,0,0,0,0
+T. Heaton,Inglaterra,32,G,0,0,0,0,0,2,0,0,0,0,0
+J. Pickford,Inglaterra,24,G,180,2,2,0,0,2,0,0,0,0,0
+J. Butland,Inglaterra,25,G,155,2,2,0,1,2,0,0,0,0,0
+N. Pope,Inglaterra,26,G,25,1,0,1,0,4,0,0,0,0,0
+A. Young,Inglaterra,32,D,177,3,2,1,1,2,0,0,1,0,0
+G. Cahill,Inglaterra,32,D,115,2,1,1,0,1,1,0,0,0,0
+D. Rose,Inglaterra,27,D,213,4,2,2,1,2,0,0,0,0,0
+K. Walker,Inglaterra,28,D,270,3,3,0,0,1,0,0,1,0,0
+P. Jones,Inglaterra,26,D,90,1,1,0,0,0,0,0,0,0,0
+K. Trippier,Inglaterra,27,D,266,4,3,1,1,1,0,1,0,0,0
+J. Tarkowski,Inglaterra,25,D,90,1,1,0,0,1,0,0,0,0,0
+H. Maguire,Inglaterra,25,D,169,2,1,1,1,3,0,0,0,0,0
+J. Stones,Inglaterra,24,D,318,4,4,0,2,0,0,0,0,0,0
+A. Mawson,Inglaterra,24,D,0,0,0,0,0,2,0,0,0,0,0
+J. Gomez,Inglaterra,21,D,10,1,1,0,1,0,0,0,0,0,0
+T. Alexander-Arnold,Inglaterra,19,D,64,1,1,0,1,0,0,0,0,0,0
+A. Lallana,Inglaterra,30,M,30,1,0,1,0,4,0,0,0,0,0
+J. Henderson,Inglaterra,27,M,171,3,2,1,1,1,0,0,0,0,0
+J. Livermore,Inglaterra,28,M,0,0,0,0,0,4,0,0,0,0,0
+F. Delph,Inglaterra,28,M,98,2,1,1,0,1,0,0,0,0,0
+A. Oxlade-Chamberlain,Inglaterra,24,M,150,2,2,0,1,0,0,0,1,0,0
+D. Alli,Inglaterra,22,M,130,3,1,2,1,3,0,1,0,0,0
+J. Lingard,Inglaterra,25,M,217,4,3,1,3,1,1,1,0,0,0
+E. Dier,Inglaterra,24,M,181,3,2,1,0,2,0,0,0,0,0
+R. Loftus-Cheek,Inglaterra,22,M,102,2,1,1,1,1,0,1,0,0,0
+L. Cook,Inglaterra,21,M,19,1,0,1,0,2,0,0,0,0,0
+D. Welbeck,Inglaterra,27,A,68,3,0,3,0,4,1,0,0,0,0
+H. Kane,Inglaterra,24,A,73,1,1,0,1,1,1,0,0,0,0
+J. Vardy,Inglaterra,31,A,153,3,2,1,2,2,1,0,0,0,0
+R. Sterling,Inglaterra,23,A,231,3,3,0,2,1,0,0,1,0,0
+M. Rashford,Inglaterra,20,A,195,4,2,2,1,2,1,0,0,0,0
+Jos� Cuadrado,Colombia,33,G,0,0,0,0,0,1,0,0,0,0,0
+D. Ospina,Colombia,29,G,270,3,3,0,0,0,0,0,0,0,0
+C. Vargas,Colombia,29,G,0,0,0,0,0,3,0,0,0,0,0
+C. Zapata,Colombia,31,D,90,1,1,0,0,1,0,0,0,0,0
+B. Espinosa,Colombia,28,D,0,0,0,0,0,2,0,0,0,0,0
+O. Murillo,Colombia,30,D,97,2,1,1,1,2,0,0,0,0,0
+S. Arias,Colombia,26,D,270,3,3,0,0,0,0,0,0,0,0
+W. Tesillo,Colombia,28,D,0,0,0,0,0,1,0,0,0,0,0
+F. Fabra,Colombia,27,D,136,2,2,0,1,1,0,0,0,0,0
+J. Mojica,Colombia,25,D,134,2,1,1,0,2,0,0,0,0,0
+Y. Mina,Colombia,23,D,173,3,2,1,1,1,0,0,1,0,0
+D. S�nchez,Colombia,22,D,180,2,2,0,0,1,0,0,0,0,0
+A. Aguilar,Colombia,33,M,113,2,2,0,2,0,0,0,1,0,0
+C. S�nchez,Colombia,32,M,180,2,2,0,0,1,0,0,0,0,0
+G. Moreno,Colombia,31,M,7,1,0,1,0,2,0,0,0,0,0
+Juan Cuadrado,Colombia,30,M,46,1,1,0,1,0,0,0,0,0,0
+J. Rodr�guez,Colombia,26,M,256,3,3,0,2,0,0,2,0,0,0
+J. Quintero,Colombia,25,M,34,2,0,2,0,3,1,0,0,0,0
+M. Uribe,Colombia,27,M,223,3,3,0,3,0,0,0,0,0,0
+W. Barrios,Colombia,24,M,90,2,1,1,0,2,0,0,0,0,0
+V. Cantillo,Colombia,26,M,0,0,0,0,0,2,0,0,0,0,0
+J. Lerma,Colombia,23,M,148,3,1,2,1,2,0,0,0,0,0
+R. Falcao,Colombia,32,A,180,3,3,0,3,0,1,0,0,0,0
+D. Zapata,Colombia,27,A,22,1,0,1,0,2,0,0,0,0,0
+C. Bacca,Colombia,31,A,99,2,1,1,1,2,0,0,0,0,0
+L. Muriel,Colombia,27,A,77,1,1,0,1,2,1,0,0,0,0
+J. Izquierdo,Colombia,25,A,72,3,0,3,0,3,0,0,0,0,0
+Y. Char�,Colombia,27,A,20,1,0,1,0,2,0,0,0,0,0
+M. Borja,Colombia,25,A,53,2,0,2,0,3,0,0,0,0,0
+E. Kawashima,Japon,35,G,270,3,3,0,0,2,0,0,0,0,0
+M. Higashiguchi,Japon,32,G,46,1,1,0,1,4,0,0,0,0,0
+K. Nakamura,Japon,23,G,134,2,1,1,0,4,0,0,0,0,0
+T. Makino,Japon,31,D,360,4,4,0,1,1,1,0,0,0,0
+M. Morishige,Japon,31,D,29,1,0,1,0,2,0,0,0,0,0
+M. Yoshida,Japon,29,D,180,2,2,0,0,1,0,0,0,0,0
+Y. Nagatomo,Japon,31,D,360,4,4,0,1,1,0,0,0,0,0
+H. Sakai,Japon,28,D,78,2,0,2,0,3,0,0,0,0,0
+G. Sakai,Japon,27,D,324,5,3,2,1,2,0,0,0,0,0
+W. Endo,Japon,25,D,46,1,1,0,1,4,0,0,0,0,0
+G. Sh?ji,Japon,25,D,180,2,2,0,0,3,0,0,0,0,0
+N. Ueda,Japon,23,D,180,2,2,0,0,3,0,0,1,0,0
+S. Kurumaya,Japon,26,D,0,0,0,0,0,2,0,0,0,0,0
+M. Hasebe,Japon,34,M,307,4,4,0,3,1,0,0,1,0,0
+T. Inui,Japon,30,M,114,2,1,1,1,2,2,0,0,0,0
+K. Honda,Japon,32,M,221,4,3,1,3,2,0,0,0,0,0
+S. Kagawa,Japon,29,M,147,3,1,2,0,2,1,2,0,0,0
+G. Haraguchi,Japon,27,M,239,4,3,1,2,2,0,0,1,0,0
+T. Usami,Japon,26,M,175,5,3,2,3,2,0,0,0,0,0
+H. Yamaguchi,Japon,27,M,295,4,3,1,1,2,0,0,0,0,0
+G. Shibasaki,Japon,26,M,220,4,2,2,1,3,0,1,1,0,0
+T. Ugajin,Japon,30,M,46,1,0,1,1,1,0,0,1,0,0
+R. Morioka,Japon,27,M,65,1,1,0,1,1,0,0,0,0,0
+R. Oshima,Japon,25,M,194,3,3,0,2,2,0,0,1,0,0
+T. Asano,Japon,23,M,0,0,0,0,0,1,0,0,0,0,0
+K. Misao,Japon,22,M,39,2,0,2,0,3,0,1,0,0,0
+Y. Ideguchi,Japon,21,M,14,1,0,1,0,1,0,0,0,0,0
+S. Okazaki,Japon,32,A,105,2,1,1,1,2,0,0,0,0,0
+Y. ?sako,Japon,28,A,203,4,3,1,2,2,0,1,0,0,0
+K. Sugimoto,Japon,25,A,56,1,1,0,1,1,0,0,0,0,0
+Y. Kobayashi,Japon,30,A,59,2,0,2,0,2,0,0,0,0,0
+Y. Kubo,Japon,24,A,95,2,1,1,1,1,0,0,0,0,0
+Y. Muto,Japon,25,A,157,3,1,2,1,2,0,0,0,0,0
+S. Nakajima,Japon,23,A,41,2,0,2,0,2,1,0,0,0,0
+?. Fabia?ski,Polonia,33,G,136,3,2,1,2,2,0,0,0,0,0
+B. Bialkowski,Polonia,30,G,44,1,0,1,0,3,0,0,0,0,0
+W. Szcz?sny,Polonia,28,G,136,3,2,1,2,2,0,0,0,0,0
+?. Skorupski,Polonia,27,G,44,1,0,1,0,1,0,0,0,0,0
+A. J?drzejczyk,Polonia,30,D,180,3,2,1,1,2,0,0,0,0,0
+M. Pazdan,Polonia,30,D,217,3,2,1,0,1,0,0,0,0,0
+?. Piszczek,Polonia,33,D,182,4,3,1,3,1,0,0,0,0,0
+T. Cionek,Polonia,32,D,178,3,1,2,0,3,0,0,0,0,0
+K. Glik,Polonia,30,D,157,2,2,0,1,1,0,0,0,0,0
+M. Kami?ski,Polonia,26,D,90,1,1,0,0,2,0,0,0,0,0
+B. Bereszy?ski,Polonia,25,D,98,2,1,1,0,1,0,1,0,0,0
+T. K?dziora,Polonia,24,D,27,2,0,2,0,2,0,0,0,0,0
+J. Bednarek,Polonia,22,D,143,2,2,0,1,0,0,0,0,0,0
+J. B?aszczykowski,Polonia,32,M,110,2,1,1,0,1,1,0,0,0,0
+M. Rybus,Polonia,28,M,236,3,3,0,3,0,0,1,1,0,0
+S. Peszko,Polonia,33,M,0,0,0,0,0,2,0,0,0,0,0
+K. M?czy?ski,Polonia,31,M,90,1,1,0,0,1,0,2,0,0,0
+G. Krychowiak,Polonia,28,M,257,3,3,0,1,1,0,1,0,0,0
+P. Zieli?ski,Polonia,24,M,283,4,3,1,0,1,2,0,0,0,0
+J. G�ralski,Polonia,25,M,184,3,1,2,0,3,0,0,2,0,0
+K. Linetty,Polonia,23,M,65,2,2,0,2,1,0,0,0,0,0
+R. Kurzawa,Polonia,25,M,96,2,1,1,0,3,0,0,0,0,0
+P. Frankowski,Polonia,23,M,86,1,1,0,1,1,0,0,0,0,0
+T. Romanczuk,Polonia,26,M,61,1,1,0,1,1,0,0,0,0,0
+K. Grosicki,Polonia,30,A,157,2,2,0,1,2,1,2,0,0,0
+R. Lewandowski,Polonia,29,A,233,4,4,0,4,0,4,0,0,0,0
+?. Teodorczyk,Polonia,27,A,104,3,0,3,0,4,0,0,0,0,0
+J. ?wierczok,Polonia,25,A,23,1,0,1,0,2,0,0,0,0,0
+A. Milik,Polonia,24,A,181,4,1,3,0,3,0,0,0,0,0
+D. Kownacki,Polonia,21,A,162,2,2,0,1,1,1,0,0,0,0
+A. Diallo,Senegal,26,G,180,2,2,0,0,2,0,0,0,0,0
+K. N'Diaye,Senegal,33,G,180,2,2,0,0,1,0,0,0,0,0
+A. Gomis,Senegal,24,G,0,0,0,0,0,5,0,0,0,0,0
+Pape Seydou N'Diaye,Senegal,25,G,90,1,1,0,0,1,0,0,0,0,0
+A. Traor�,Senegal,28,D,98,2,1,1,1,1,0,0,0,0,0
+L. Gassama,Senegal,28,D,213,3,2,1,1,2,0,0,0,0,0
+F. Diagne,Senegal,28,D,90,1,1,0,0,1,0,0,0,0,0
+P. Souar�,Senegal,28,D,74,1,1,0,1,1,0,0,0,0,0
+P. Djilobodji,Senegal,29,D,180,2,2,0,0,0,0,0,0,0,0
+S. Ciss,Senegal,29,D,46,1,1,0,1,2,0,0,0,0,0
+K. Koulibaly,Senegal,26,D,308,4,4,0,2,1,0,0,1,0,0
+S. San�,Senegal,27,D,314,4,3,1,0,2,0,0,1,0,0
+Y. Sabaly,Senegal,25,D,270,3,3,0,0,1,0,0,0,0,0
+M. Wagu�,Senegal,19,D,188,3,2,1,0,3,0,0,0,0,0
+H. Saivet,Senegal,27,M,96,2,1,1,1,1,0,0,0,0,0
+A. N'Diaye,Senegal,28,M,342,5,4,1,2,1,0,1,1,0,0
+C. Kouyat�,Senegal,28,M,180,2,2,0,0,1,0,0,0,0,0
+I. Gueye,Senegal,28,M,134,2,2,0,2,1,0,0,0,0,0
+K. Mbodji,Senegal,28,M,8,1,0,1,0,3,0,0,0,0,0
+C. N'Doye,Senegal,32,M,116,4,1,3,0,4,0,0,0,0,0
+Badou N'Diaye,Senegal,27,M,149,3,1,2,1,4,0,0,1,0,0
+A. Diouss�,Senegal,20,M,90,1,1,0,0,0,0,0,0,0,0
+M. Sow,Senegal,32,A,70,2,1,1,1,3,0,0,0,0,0
+M. Diouf,Senegal,30,A,128,3,1,2,1,3,0,0,0,0,0
+D. Sakho,Senegal,28,A,205,4,2,2,1,2,0,0,1,0,0
+M. Niang,Senegal,23,A,223,4,3,1,2,2,0,0,1,0,0
+S. N'Gom,Senegal,25,A,86,2,1,1,1,1,0,0,0,0,0
+M. Konat�,Senegal,25,A,224,3,2,1,0,3,2,0,0,0,0
+S. Man�,Senegal,26,A,267,3,3,0,1,1,0,0,1,0,0
+O. Niasse,Senegal,28,A,66,1,1,0,1,1,0,0,0,0,0
+K. Bald�,Senegal,23,A,73,2,1,1,1,2,0,0,0,0,0
+I. Sarr,Senegal,20,A,262,5,3,2,2,2,1,0,0,0,0
