@@ -31,14 +31,14 @@ def prediccion(btn):
     match_row['diff_ranking'] = float(fifa.loc[team1]) - float(fifa.loc[team2])
     
     X_test = pd.DataFrame([match_row]).values
-    resultado = modelo.predict(X_test)
+    res = modelo.predict(X_test)
     
-    if resultado == 1:
-        print(team2)
+    if res == 1:
+        resultado.value = team2
     elif resultado == 2:
-        print("Empate")
+        resultado.value = "Empate"
     else:
-        print(team1)
+        resultado.value = team1
 
 team1_dd = widgets.Dropdown(options=team_list,
                  description="Equipo 1: ")
@@ -52,7 +52,10 @@ btn = widgets.Button(description="Aceptar",
 btn.on_click(prediccion)
 
 menu = widgets.HBox([team1_dd, team2_dd, btn])
-resultado = widgets.
+resultado = widgets.Text(description="Resultado: ", disabled=True)
 
+all_w = widgets.VBox([menu, resultado])
 def render():
-    display(menu)
+    display(all_w)
+    
+    
